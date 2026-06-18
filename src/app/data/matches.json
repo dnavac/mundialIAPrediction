@@ -58,5 +58,197 @@
       "cards": "Menos de 4.5",
       "goalscorers": "Luis Díaz (Cualquier momento)"
     }
+  },
+  {
+    "id": "chequia-vs-sudafrica",
+    "team1": "Chequia",
+    "team2": "Sudáfrica",
+    "flag1": "🇨🇿",
+    "flag2": "🇿🇦",
+    "date": "23 Junio 2026",
+    "time": "16:00",
+    "group": "Grupo F",
+    "stadium": "Mercedes-Benz Stadium",
+    "analysis": "Chequia llega a este encuentro del Mundial 2026 consolidado como un conjunto europeo muy físico y ordenado táctica y defensivamente. Basando su juego en un bloque medio-bajo compacto, el equipo europeo busca lastimar a sus oponentes mediante transiciones rápidas, el aprovechamiento de los balones parados y el juego aéreo. Sus últimos partidos han evidenciado una buena capacidad de adaptación frente a diferentes esquemas, mostrando solidez aunque con algunas dificultades para generar juego interior cuando el rival cede por completo la iniciativa.\n\nPor su parte, Sudáfrica se presenta con el dinamismo y la verticalidad característica de los 'Bafana Bafana'. Han demostrado un gran crecimiento técnico reciente, apostando por posesiones rápidas y desbordes constantes por los costados. Sin embargo, suelen sufrir frente a combinados europeos que imponen una superioridad en la fricción física y logran cortar sus circuitos de pases en el mediocampo, dejándolos expuestos en los retrocesos defensivos.\n\nTácticamente, se perfila un duelo donde Chequia intentará imponer condiciones físicas y dominar el ritmo del partido, buscando los espacios aéreos en el área africana. Sudáfrica apostará a agruparse y salir disparado al contragolpe aprovechando la velocidad de sus extremos. La jerarquía individual y el pragmatismo táctico inclinan la balanza hacia el cuadro checo, aunque no se descarta que los sudafricanos logren incomodar si encuentran espacios a la espalda de la defensa europea.",
+    "recentForm": {
+      "team1": ["D", "W", "L", "W", "W"],
+      "team2": ["W", "L", "D", "W", "L"]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.2",
+        "team2": "3.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Chequia",
+      "winnerProb": "65%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Patrik Schick (Cualquier momento)"
+    }
+  },
+  {
+    "id": "suiza-vs-bosnia-y-herzegovina",
+    "team1": "Suiza",
+    "team2": "Bosnia y Herzegovina",
+    "flag1": "🇨🇭",
+    "flag2": "🇧🇦",
+    "date": "24 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo G",
+    "stadium": "Levi's Stadium",
+    "analysis": "Suiza afronta este compromiso de la Copa del Mundo consolidado como un equipo con gran madurez táctica, orden defensivo y alta efectividad en la circulación del balón. El mediocampo helvético maneja con solvencia los ritmos del partido, apoyándose en transiciones limpias y un bloque defensivo compacto que concede pocos espacios. En sus últimos encuentros internacionales, han demostrado ser un rival difícil de quebrar, con un juego colectivo coordinado y versatilidad para presionar en campo contrario.\n\nPor otro lado, Bosnia y Herzegovina se presenta como un rival competitivo pero que atraviesa cierta irregularidad en su funcionamiento defensivo. El conjunto bosnio confía su juego en la fortaleza física, el fútbol directo y la contundencia en las jugadas a balón parado. Sin embargo, suelen sufrir cuando se enfrentan a escuadras con dinámicas asociativas rápidas en la zona medular, lo que tiende a fracturar sus líneas y dejarlos expuestos en las transiciones defensivas.\n\nTácticamente, el encuentro estará marcado por el control de la posesión por parte de Suiza, que buscará desgastar el bloque bajo de Bosnia moviendo el balón de lado a lado. La paciencia y la jerarquía individual en el último tercio de los suizos serán fundamentales para abrir el marcador, mientras que Bosnia intentará replegarse y castigar mediante contraataques aislados. La solidez colectiva e histórica regularidad de Suiza la colocan como la principal favorita para llevarse el triunfo.",
+    "recentForm": {
+      "team1": ["W", "D", "W", "D", "W"],
+      "team2": ["L", "W", "L", "D", "L"]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.6",
+        "team2": "1.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "56%",
+        "team2": "44%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.8",
+        "team2": "3.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Suiza",
+      "winnerProb": "68%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 64%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Breel Embolo (Cualquier momento)"
+    }
+  },
+  {
+    "id": "canada-vs-catar",
+    "team1": "Canadá",
+    "team2": "Catar",
+    "flag1": "🇨🇦",
+    "flag2": "🇶🇦",
+    "date": "25 Junio 2026",
+    "time": "19:00",
+    "group": "Grupo A",
+    "stadium": "BC Place",
+    "analysis": "Canadá llega a este partido mundialista en su propio territorio mostrando una evolución futbolística notable y una propuesta de juego de alta intensidad. Bajo su actual dirección técnica, el conjunto canadiense destaca por la velocidad y el desequilibrio en las bandas, transiciones ofensivas verticales extremadamente rápidas y una presión asfixiante tras pérdida de balón. En sus últimos compromisos internacionales, han demostrado solidez defensiva y contundencia, apoyados por el dinamismo de figuras consolidadas en el fútbol europeo.\n\nPor su parte, Catar afronta este partido con un planteamiento basado en el orden táctico, la posesión progresiva del balón y asociaciones en el medio sector que intentan dormir el ritmo del partido. El conjunto asiático ha mostrado un crecimiento competitivo en los últimos años, recostándose en un bloque defensivo medio-bajo compacto para intentar contragolpear con pases largos precisos hacia sus atacantes. Sin embargo, suelen exhibir falencias cuando se miden a escuadras con un ritmo de juego vertiginoso y de mucha fricción física en las bandas.\n\nTácticamente, se espera un dominio posicional de Canadá impulsado por el empuje de su afición local. La clave para la escuadra norteamericana será mantener la precisión en el último tercio para resquebrajar el poblado bloque defensivo catarí. Para Catar, la resistencia física y la efectividad en las transiciones defensivas serán vitales si quieren aspirar a sumar puntos. La superioridad técnica colectiva y el factor de localía posicionan a Canadá como amplio favorito.",
+    "recentForm": {
+      "team1": ["W", "D", "W", "L", "W"],
+      "team2": ["D", "W", "L", "D", "W"]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "55%",
+        "team2": "45%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.0",
+        "team2": "3.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Canadá",
+      "winnerProb": "71%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 65%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Jonathan David (Cualquier momento)"
+    }
+  },
+  {
+    "id": "mexico-vs-corea-del-sur",
+    "team1": "México",
+    "team2": "Corea del Sur",
+    "flag1": "🇲🇽",
+    "flag2": "🇰🇷",
+    "date": "18 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo A",
+    "stadium": "Estadio Guadalajara",
+    "analysis": "México llega a este trascendental partido tras un sólido debut en el que derrotó 2-0 a Sudáfrica, mostrando la disciplina y el orden defensivo característicos de la gestión de Javier Aguirre. Sin embargo, el conjunto anfitrión se enfrenta a un serio reto táctico debido a la suspensión de su defensor central César Montes por tarjeta roja. Se espera que Edson Álvarez retrase su posición para liderar la zaga en un esquema 4-1-4-1 que priorizará la presión media, el manejo del ritmo del juego y el empuje de su afición local en Guadalajara para adueñarse de la posesión.\n\nPor su parte, Corea del Sur demostró una enorme resiliencia en la primera jornada al remontar y vencer 2-1 a Chequia. El combinado asiático basará su propuesta en un bloque dinámico comandado por Kim Min-jae en defensa y la creatividad de Lee Kang-in en la zona de mediapuntas, buscando constantemente activar la velocidad en transición de Son Heung-min. A pesar de su alta peligrosidad al contragolpe, el equipo surcoreano ha mostrado ciertas licencias en su retroceso defensivo durante sus últimos compromisos, concediendo más goles de los esperados.\n\nTácticamente, el encuentro se perfila como una intensa batalla por el liderato del Grupo A. México intentará adormecer las transiciones rápidas de los asiáticos mediante un juego posicional inteligente y vigilancias defensivas estrictas sobre los extremos. Ante la sólida propuesta defensiva mexicana, que apenas ha recibido goles en lo que va del año, se proyecta un partido sumamente cerrado, de pocos espacios y de un desarrollo estratégico donde la localía y la contundencia de Raúl Jiménez podrían inclinar la balanza por la mínima diferencia.",
+    "recentForm": {
+      "team1": ["W", "W", "D", "W", "W"],
+      "team2": ["W", "D", "W", "L", "D"]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.6",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "48%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5",
+        "team2": "4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "México",
+      "winnerProb": "54%",
+      "exactScore": "1 - 0",
+      "btts": "No (Probabilidad: 58%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Raúl Jiménez (Cualquier momento)"
+    }
   }
 ]
