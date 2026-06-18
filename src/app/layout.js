@@ -1,4 +1,6 @@
 import './globals.css';
+import Link from 'next/link';
+import AdSenseInit from './components/AdSenseInit';
 
 export const metadata = {
   title: 'MundialPredicciones IA - Mundial 2026',
@@ -6,21 +8,28 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+  // Nota: Para inicializar AdSense en páginas dinámicas, agrega esto en tus componentes cliente:
+  // useEffect(() => {
+  //   if (window.adsbygoogle) window.adsbygoogle.push({});
+  // }, []);
+
   return (
     <html lang="es">
       <head>
+        <meta name="google-adsense-account" content="ca-pub-8609315549525650" />
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
         {/* Google AdSense */}
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8609315549525650" crossOrigin="anonymous"></script>
       </head>
       <body>
+        <AdSenseInit />
         <header className="header">
           <div className="container header-content">
-            <a href="/" className="logo">Mundial IA</a>
+            <Link href="/" className="logo">Mundial IA</Link>
             <nav style={{ display: 'flex', gap: '1rem', fontWeight: '500' }}>
-              <a href="/">Inicio</a>
-              <a href="/grupos">Grupos</a>
-              <a href="/estadisticas">Estadísticas</a>
+              <Link href="/">Inicio</Link>
+              <Link href="/grupos">Grupos</Link>
+              <Link href="/estadisticas">Estadísticas</Link>
             </nav>
           </div>
         </header>
@@ -28,12 +37,22 @@ export default function RootLayout({ children }) {
         <main className="main container">
           {/* Header Ad Slot */}
           <div className="ad-banner">
-            Espacio Publicitario AdSense (Header)
+            <ins className="adsbygoogle"
+              style={{ display: 'block' }}
+              data-ad-client="ca-pub-8609315549525650"
+              data-ad-slot="1234567890"
+              data-ad-format="horizontal"></ins>
           </div>
 
           <div className="layout-grid">
             <div className="sidebar-ad">
-              <span>AdSense<br/>(Skyscraper Izquierdo)</span>
+              <ins className="adsbygoogle"
+                style={{ display: 'block' }}
+                data-ad-client="ca-pub-8609315549525650"
+                data-ad-slot="1234567891"
+                data-ad-format="vertical"
+                data-ad-height="600"
+                data-ad-width="300"></ins>
             </div>
             
             <div className="content-area">
@@ -41,7 +60,13 @@ export default function RootLayout({ children }) {
             </div>
 
             <div className="sidebar-ad">
-              <span>AdSense<br/>(Skyscraper Derecho)</span>
+              <ins className="adsbygoogle"
+                style={{ display: 'block' }}
+                data-ad-client="ca-pub-8609315549525650"
+                data-ad-slot="1234567892"
+                data-ad-format="vertical"
+                data-ad-height="600"
+                data-ad-width="300"></ins>
             </div>
           </div>
 
