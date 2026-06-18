@@ -1,0 +1,222 @@
+:root {
+  --bg-color: #0b0e14;
+  --card-bg: #151a22;
+  --card-border: #1f2632;
+  --text-main: #f5f5f5;
+  --text-muted: #8b94a3;
+  --accent-primary: #00ff87; /* Neon green */
+  --accent-secondary: #00d4ff; /* Neon blue */
+  --win-color: #10b981;
+  --draw-color: #f59e0b;
+  --loss-color: #ef4444;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-primary);
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header */
+.header {
+  background-color: var(--card-bg);
+  border-bottom: 1px solid var(--card-border);
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(10px);
+  background-color: rgba(21, 26, 34, 0.85);
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: 800;
+  background: linear-gradient(to right, var(--accent-primary), var(--accent-secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Main */
+.main {
+  padding: 2rem 0 4rem;
+}
+
+/* Common Card Style */
+.card {
+  background-color: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  overflow: hidden;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px -3px rgba(0, 255, 135, 0.1), 0 4px 10px -2px rgba(0, 255, 135, 0.05);
+  border-color: rgba(0, 255, 135, 0.4);
+}
+
+/* Ad Banners */
+.ad-banner {
+  background-color: #1a212d;
+  border: 1px dashed #334155;
+  color: #64748b;
+  text-align: center;
+  padding: 2rem;
+  margin: 2rem 0;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* Section Title */
+.section-title {
+  font-size: 1.75rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.section-title::before {
+  content: '';
+  display: block;
+  width: 4px;
+  height: 24px;
+  background-color: var(--accent-primary);
+  border-radius: 2px;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseGlow {
+  0% { box-shadow: 0 0 0 0 rgba(0, 255, 135, 0.4); }
+  70% { box-shadow: 0 0 0 10px rgba(0, 255, 135, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(0, 255, 135, 0); }
+}
+
+.animate-fade-in {
+  animation: fadeInUp 0.6s ease-out forwards;
+  opacity: 0;
+}
+
+.delay-100 { animation-delay: 100ms; }
+.delay-200 { animation-delay: 200ms; }
+.delay-300 { animation-delay: 300ms; }
+
+.prediction-highlight {
+  animation: pulseGlow 2s infinite;
+}
+
+/* Image Backgrounds */
+.hero-bg {
+  background-image: url('/stadium_header.png');
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.hero-bg::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, var(--bg-color), rgba(11, 14, 20, 0.4));
+  z-index: 1;
+}
+
+.hero-content {
+  position: relative;
+  z-index: 2;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .section-title {
+    font-size: 1.5rem;
+  }
+}
+
+/* 3-Column Layout */
+.layout-grid {
+  display: grid;
+  grid-template-columns: 1fr; /* Mobile default */
+  gap: 2rem;
+}
+
+@media (min-width: 1024px) {
+  .layout-grid {
+    grid-template-columns: 160px 1fr 160px; /* PC layout: Ad | Content | Ad */
+  }
+}
+
+.sidebar-ad {
+  display: none; /* Hidden on mobile */
+}
+
+@media (min-width: 1024px) {
+  .sidebar-ad {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: sticky;
+    top: 100px;
+    height: 600px; /* Standard skyscraper height */
+    background-color: var(--card-bg);
+    border: 1px dashed var(--card-border);
+    color: var(--text-muted);
+    justify-content: center;
+    text-align: center;
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+  }
+}

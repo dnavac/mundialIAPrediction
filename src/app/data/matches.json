@@ -1,0 +1,62 @@
+[
+  {
+    "id": "colombia-vs-uzbekistan",
+    "team1": "Colombia",
+    "team2": "Uzbekistán",
+    "flag1": "🇨🇴",
+    "flag2": "🇺🇿",
+    "date": "20 Junio 2026",
+    "time": "15:00",
+    "group": "Grupo C",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Colombia llega a este encuentro mundialista mostrando un fútbol muy dinámico y consolidado bajo el mando de Néstor Lorenzo. Con una racha sobresaliente en los últimos meses, el equipo cafetero destaca por su presión alta, transiciones rápidas por las bandas y una defensa rocosa que concede muy poco espacio. El mediocampo mantiene un control eficiente del ritmo del partido, promediando una alta posesión ante rivales que deciden ceder la iniciativa, respaldándose en el desequilibrio individual de figuras como Luis Díaz en el último tercio.\n\nPor su parte, Uzbekistán se presenta en el Mundial 2026 basando su juego en un estricto orden táctico y resiliencia defensiva, características que los llevaron a destacar en las eliminatorias asiáticas. El equipo confía plenamente en el bloque medio-bajo, el contragolpe y la capacidad de sus atacantes rápidos como Eldor Shomurodov y Abbosbek Fayzullaev. Sin embargo, a nivel técnico colectivo, suelen sufrir cuando se enfrentan a equipos sudamericanos o europeos que monopolizan la pelota y tienen gran movilidad posicional.\n\nTácticamente, se espera un dominio de Colombia con el balón, buscando penetrar la muralla de Uzbekistán. La clave del partido pasará por la paciencia del equipo colombiano para abrir el marcador sin desordenarse atrás frente a los contraataques asiáticos. La superioridad técnica individual de Colombia debería ser suficiente para inclinar la balanza a su favor en los 90 minutos, logrando romper el cerrojo defensivo.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.2",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "59%",
+        "team2": "41%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.5",
+        "team2": "3.2"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Colombia",
+      "winnerProb": "76%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 62%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Luis Díaz (Cualquier momento)"
+    }
+  }
+]
