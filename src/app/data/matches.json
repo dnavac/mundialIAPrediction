@@ -1,15 +1,2655 @@
 [
   {
-    "id": "colombia-vs-uzbekistan",
-    "team1": "Colombia",
-    "team2": "Uzbekistán",
-    "flag1": "🇨🇴",
-    "flag2": "🇺🇿",
+    "id": "mexico-vs-sudafrica",
+    "team1": "México",
+    "team2": "Sudáfrica",
+    "flag1": "🇲🇽",
+    "flag2": "🇿🇦",
+    "date": "11 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo A",
+    "stadium": "Estadio Azteca",
+    "analysis": "México inicia su Copa del Mundo buscando imponer condiciones mediante un juego de posesión progresiva y presión alta en territorio rival. La escuadra norteamericana confía en la velocidad de sus extremos para abrir el bloque bajo esperado de su oponente.\n\nSudáfrica, por su parte, prioriza el orden defensivo estricto y las transiciones verticales rápidas aprovechando los espacios concedidos a las espaldas de los laterales mexicanos. Se espera un duelo de paciencia táctica para el local.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "55%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.4",
+        "team2": "3.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "México",
+      "winnerProb": "65%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 40%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Santiago Giménez"
+    }
+  },
+  {
+    "id": "corea-del-sur-vs-chequia",
+    "team1": "Corea del Sur",
+    "team2": "Chequia",
+    "flag1": "🇰🇷",
+    "flag2": "🇨🇿",
+    "date": "11 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo A",
+    "stadium": "Estadio BBVA",
+    "analysis": "Corea del Sur se presenta con su característico despliegue físico incombustible y transiciones dinámicas de defensa a ataque. Su principal fortaleza radica en la velocidad colectiva y la finalización en velocidad de sus atacantes de élite.\n\nChequia contrapone una estructura táctica sumamente rígida y un juego aéreo temible en jugadas de estrategia. El conjunto europeo intentará adormecer el ritmo frenético de los asiáticos poblando la zona medular de contención.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.6",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "48%",
+        "team2": "52%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.8",
+        "team2": "4.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "38%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 62%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Son Heung-min"
+    }
+  },
+  {
+    "id": "canada-vs-bosnia",
+    "team1": "Canadá",
+    "team2": "Bosnia y Herzegovina",
+    "flag1": "🇨🇦",
+    "flag2": "🇧🇦",
+    "date": "12 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo B",
+    "stadium": "BMO Field",
+    "analysis": "Canadá buscará explotar su condición de local dinámico con un esquema vertical comandado por laterales de proyección constante. La velocidad en la transición ofensiva es su principal argumento para desestabilizar bloques fijos.\n\nBosnia apoya sus opciones en la experiencia de sus mediocampistas para pausar el juego y la efectividad posicional dentro del área rival. Sufrirán si permiten que Canadá corra con espacio abierto.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.0",
+        "team2": "1.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "53%",
+        "team2": "47%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.6",
+        "team2": "3.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Canadá",
+      "winnerProb": "58%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 55%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Jonathan David"
+    }
+  },
+  {
+    "id": "usa-vs-paraguay",
+    "team1": "Estados Unidos",
+    "team2": "Paraguay",
+    "flag1": "🇺🇸",
+    "flag2": "🇵🇾",
+    "date": "12 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo C",
+    "stadium": "MetLife Stadium",
+    "analysis": "Estados Unidos asume el protagonismo con un plantel de alta intensidad europea, enfocado en la presión tras pérdida y circulación rápida en mediocampo. Su volumen de juego ofensivo por las bandas suele someter a los rivales.\n\nParaguay se presenta fiel a su identidad combativa, plantando un bloque defensivo sumamente denso y buscando el juego directo. Su agresividad en la marca intentará cortar los circuitos de gestación norteamericanos.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.9",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "56%",
+        "team2": "44%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.8",
+        "team2": "3.2"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Estados Unidos",
+      "winnerProb": "54%",
+      "exactScore": "1 - 0",
+      "btts": "No (Probabilidad: 38%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Christian Pulisic"
+    }
+  },
+  {
+    "id": "catar-vs-suiza",
+    "team1": "Catar",
+    "team2": "Suiza",
+    "flag1": "🇶🇦",
+    "flag2": "🇨🇭",
+    "date": "13 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo B",
+    "stadium": "Mercedes-Benz Stadium",
+    "analysis": "Catar llega con un proceso consolidado basado en transiciones rápidas y repliegue ordenado. Saben que no parten como favoritos y buscarán cerrar líneas por el centro del campo.\n\nSuiza ostenta una jerarquía táctica muy superior, combinando posesión paciente con rupturas sorpresivas de sus volantes. El control del ritmo del partido estará enteramente en los pies helvéticos.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.2",
+        "team2": "1.7"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "41%",
+        "team2": "59%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.5",
+        "team2": "5.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Suiza",
+      "winnerProb": "70%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 35%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Breel Embolo"
+    }
+  },
+  {
+    "id": "brasil-vs-marruecos",
+    "team1": "Brasil",
+    "team2": "Marruecos",
+    "flag1": "🇧🇷",
+    "flag2": "🇲🇦",
+    "date": "13 Junio 2026",
+    "time": "17:00",
+    "group": "Grupo D",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Brasil pone en escena todo su arsenal técnico con rotación constante en ataque y transiciones ofensivas indescifrables. La capacidad técnica individual es clave para desarmar estructuras cerradas.\n\nMarruecos replica su orden defensivo histórico de Qatar 2022, utilizando un bloque bajo sumamente compacto y solidario. Intentarán desquiciar el ataque brasileño mediante coberturas escalonadas y contragolpes letales.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.4",
+        "team2": "1.5"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "62%",
+        "team2": "38%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "7.1",
+        "team2": "4.0"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Brasil",
+      "winnerProb": "62%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 52%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Vinícius Júnior"
+    }
+  },
+  {
+    "id": "haiti-vs-escocia",
+    "team1": "Haití",
+    "team2": "Escocia",
+    "flag1": "🇭🇹",
+    "flag2": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "date": "13 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo D",
+    "stadium": "NRG Stadium",
+    "analysis": "Haití apela a su potencia atlética y juego directo para intentar competir en un grupo complejo. Su debilidad estructural en el retroceso defensivo puede pasarles factura ante rivales ordenados.\n\nEscocia basará su estrategia en la fortaleza física colectiva, el control del mediocampo con jugadores de rodaje en Premier League y los centros venenosos al área. Son claros favoritos por despliegue e intensidad.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.0",
+        "team2": "1.6"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "44%",
+        "team2": "56%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.1",
+        "team2": "5.0"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Escocia",
+      "winnerProb": "68%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 42%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "John McGinn"
+    }
+  },
+  {
+    "id": "australia-vs-turquia",
+    "team1": "Australia",
+    "team2": "Turquía",
+    "flag1": "🇦🇺",
+    "flag2": "🇹🇷",
+    "date": "13 Junio 2026",
+    "time": "23:00",
+    "group": "Grupo C",
+    "stadium": "Levi's Stadium",
+    "analysis": "Australia propone un bloque compacto de corte netamente físico, buscando segundas pelotas y priorizando la firmeza en el juego aéreo defensivo.\n\nTurquía cuenta con mayor riqueza técnica individual en zona de gestación. Su capacidad para filtrar balones entre líneas y rematar de media distancia inclina la balanza técnica a su favor si controlan los nervios del debut.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.3",
+        "team2": "1.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "45%",
+        "team2": "55%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.0",
+        "team2": "5.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Turquía",
+      "winnerProb": "48%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 60%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Hakan Çalhanoğlu"
+    }
+  },
+  {
+    "id": "alemania-vs-curazao",
+    "team1": "Alemania",
+    "team2": "Curazao",
+    "flag1": "🇩🇪",
+    "flag2": "🇨🇼",
+    "date": "14 Junio 2026",
+    "time": "12:00",
+    "group": "Grupo E",
+    "stadium": "Arrowhead Stadium",
+    "analysis": "Alemania se presenta con un modelo ofensivo asfixiante, basado en posesiones dominantes y recuperación inmediata tras pérdida en campo rival. La diferencia de jerarquía colectiva es monumental.\n\nCurazao buscará un planteamiento ultra defensivo para mitigar daños, apelando al orgullo físico y transiciones aisladas. Su prioridad absoluta será evitar desatenciones tempranas en zona baja.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.6",
+        "team2": "0.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "68%",
+        "team2": "32%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "8.2",
+        "team2": "2.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Alemania",
+      "winnerProb": "92%",
+      "exactScore": "4 - 0",
+      "btts": "No (Probabilidad: 20%)",
+      "overUnder": "Más de 3.5 goles",
+      "corners": "Más de 10.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Jamal Musiala"
+    }
+  },
+  {
+    "id": "paises-bajos-vs-japon",
+    "team1": "Países Bajos",
+    "team2": "Japón",
+    "flag1": "🇳🇱",
+    "flag2": "🇯🇵",
+    "date": "14 Junio 2026",
+    "time": "15:00",
+    "group": "Grupo E",
+    "stadium": "Lumen Field",
+    "analysis": "Duelo táctico de alto vuelo. Países Bajos utiliza un esquema flexible con salida limpia desde el fondo y carrileros de profunda proyección, buscando superioridad numérica por dentro.\n\nJapón opondrá su disciplina táctica de clase mundial, presión coordinada en bloque medio y un ritmo vertiginoso en contragolpes. Partido cerrado donde la eficacia en transiciones definirá el rumbo.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.1",
+        "team2": "2.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.9",
+        "team2": "6.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "40%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 65%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Cody Gakpo"
+    }
+  },
+  {
+    "id": "costa-de-marfil-vs-ecuador",
+    "team1": "Costa de Marfil",
+    "team2": "Ecuador",
+    "flag1": "🇨🇮",
+    "flag2": "🇪🇨",
+    "date": "14 Junio 2026",
+    "time": "18:00",
+    "group": "Grupo F",
+    "stadium": "SoFi Stadium",
+    "analysis": "Costa de Marfil exhibe un despliegue atlético formidable, destacando su fortaleza en el centro de la cancha y extremos explosivos en el uno contra uno.\n\nEcuador equilibra el encuentro gracias a su orden táctico en defensa y repliegue seguro. El conjunto sudamericano buscará imponer condiciones con transiciones limpias y su tradicional rigor defensivo en bloque medio.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.5",
+        "team2": "1.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "49%",
+        "team2": "51%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.2",
+        "team2": "4.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Ecuador",
+      "winnerProb": "45%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 54%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Enner Valencia"
+    }
+  },
+  {
+    "id": "suecia-vs-tunez",
+    "team1": "Suecia",
+    "team2": "Túnez",
+    "flag1": "🇸🇪",
+    "flag2": "🇹🇳",
+    "date": "14 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo F",
+    "stadium": "Lincoln Financial Field",
+    "analysis": "Suecia intentará comandar las acciones con juego directo y potencia ofensiva en el área rival. Su capacidad técnica individual en ataque marca la pauta frente a defensas replegadas.\n\nTúnez se basará en un libreto estrictamente conservador, cerrando pasillos interiores y apostando al roce físico para cortar la fluidez del ataque nórdico.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "W",
+        "L",
+        "D",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.7",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "56%",
+        "team2": "44%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.0",
+        "team2": "3.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Suecia",
+      "winnerProb": "55%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 36%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Viktor Gyökeres"
+    }
+  },
+  {
+    "id": "espana-vs-cabo-verde",
+    "team1": "España",
+    "team2": "Cabo Verde",
+    "flag1": "🇪🇸",
+    "flag2": "🇨🇻",
+    "date": "15 Junio 2026",
+    "time": "11:00",
+    "group": "Grupo G",
+    "stadium": "Gillette Stadium",
+    "analysis": "España pondrá en marcha su maquinaria de posesión extrema y circulación de balón a un toque, desgastando al rival de forma asimétrica por los costados.\n\nCabo Verde intentará resistir la tormenta posicional agrupando diez futbolistas por detrás de la línea del balón. Sus posibilidades ofensivas son sumamente reducidas ante la presión inmediata de 'La Roja'.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.5",
+        "team2": "1.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "71%",
+        "team2": "29%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "7.8",
+        "team2": "2.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "España",
+      "winnerProb": "88%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 15%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 10.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Lamine Yamal"
+    }
+  },
+  {
+    "id": "belgica-vs-egipto",
+    "team1": "Bélgica",
+    "team2": "Egipto",
+    "flag1": "🇧🇪",
+    "flag2": "🇪🇬",
+    "date": "15 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo G",
+    "stadium": "Atlanta Stadium",
+    "analysis": "Bélgica asume el rol protagónico apoyada en transiciones rápidas y dinámica ofensiva por dentro. La fluidez en el último cuarto de cancha definirá el partido.\n\nEgipto buscará un trámite espeso, protegiendo su área con vehemencia y activando transiciones largas directas dirigidas a la jerarquía individual de sus referentes ofensivos.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.0",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.0",
+        "team2": "4.2"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Bélgica",
+      "winnerProb": "60%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 52%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Romelu Lukaku"
+    }
+  },
+  {
+    "id": "arabia-saudita-vs-uruguay",
+    "team1": "Arabia Saudita",
+    "team2": "Uruguay",
+    "flag1": "🇸🇦",
+    "flag2": "🇺🇾",
+    "date": "15 Junio 2026",
+    "time": "17:00",
+    "group": "Grupo H",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Arabia Saudita intentará cortar ritmos con un esquema ordenado de posesión corta en zona de seguridad, pero sufrirá ante la asfixiante intensidad rival.\n\nUruguay presentará su tradicional estilo vertical de alta presión, duelos físicos ganados en zona alta y ataques ultra rápidos a los espacios desprotegidos. La 'Garra Charrúa' parte con ventaja competitiva notable.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.1",
+        "team2": "2.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "45%",
+        "team2": "55%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.4",
+        "team2": "6.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Uruguay",
+      "winnerProb": "72%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 34%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Darwin Núñez"
+    }
+  },
+  {
+    "id": "iran-vs-nueva-zelanda",
+    "team1": "Irán",
+    "team2": "Nueva Zelanda",
+    "flag1": "🇮🇷",
+    "flag2": "🇳🇿",
+    "date": "15 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo H",
+    "stadium": "MetLife Stadium",
+    "analysis": "Irán ostenta mayor roce competitivo en Copas del Mundo, estructurando un bloque rígido difícil de vulnerar y atacantes de probada jerarquía continental.\n\nNueva Zelanda buscará emparejar las acciones mediante despliegue físico y juego directo, pero sus falencias técnicas en elaboración estática limitan su volumen ofensivo real.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.4",
+        "team2": "1.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "52%",
+        "team2": "48%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.3",
+        "team2": "3.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Irán",
+      "winnerProb": "55%",
+      "exactScore": "1 - 0",
+      "btts": "No (Probabilidad: 32%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Mehdi Taremi"
+    }
+  },
+  {
+    "id": "francia-vs-senegal",
+    "team1": "Francia",
+    "team2": "Senegal",
+    "flag1": "🇫🇷",
+    "flag2": "🇸🇳",
+    "date": "16 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo I",
+    "stadium": "SoFi Stadium",
+    "analysis": "Francia expone su condición de potencia mundial combinando control del ritmo y verticalidad letal comandada por sus atacantes de élite planetaria.\n\nSenegal opone el bloque africano más sólido, caracterizado por potencia en los duelos individuales y despliegue solidario. Sin embargo, contener el desequilibrio individual francés durante 90 minutos será una tarea titánica.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.3",
+        "team2": "1.5"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.8",
+        "team2": "4.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Francia",
+      "winnerProb": "68%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 40%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Kylian Mbappé"
+    }
+  },
+  {
+    "id": "irak-vs-noruega",
+    "team1": "Irak",
+    "team2": "Noruega",
+    "flag1": "🇮🇶",
+    "flag2": "🇳🇴",
+    "date": "16 Junio 2026",
+    "time": "17:00",
+    "group": "Grupo I",
+    "stadium": "Levi's Stadium",
+    "analysis": "Irak basará su plan en poblar la zona defensiva y escalonar marcas para frenar el temible ataque vertical del conjunto nórdico.\n\nNoruega cuenta con una ventaja referencial absoluta en el área. Su propuesta de centros cruzados y finalización de potencia física desarticulará la zaga iraquí de forma constante.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.0",
+        "team2": "2.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "41%",
+        "team2": "59%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.2",
+        "team2": "5.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Noruega",
+      "winnerProb": "74%",
+      "exactScore": "0 - 3",
+      "btts": "No (Probabilidad: 28%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Erling Haaland"
+    }
+  },
+  {
+    "id": "argentina-vs-argelia",
+    "team1": "Argentina",
+    "team2": "Argelia",
+    "flag1": "🇦🇷",
+    "flag2": "🇩🇿",
+    "date": "16 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo J",
+    "stadium": "NRG Stadium",
+    "analysis": "Argentina salta al campo a manejar el esférico bajo asociaciones internas veloces en el centro del campo y rupturas por bandas. La fluidez posicional desacomoda bloques estructurados.\n\nArgelia buscará cortar circuitos con rigor físico en zona de recuperación, apostando al desequilibrio individual de sus extremos en transiciones directas aisladas.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.2",
+        "team2": "1.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "64%",
+        "team2": "36%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.7",
+        "team2": "3.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Argentina",
+      "winnerProb": "78%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 35%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Lautaro Martínez"
+    }
+  },
+  {
+    "id": "austria-vs-jordania",
+    "team1": "Austria",
+    "team2": "Jordania",
+    "flag1": "🇦🇹",
+    "flag2": "🇯🇴",
+    "date": "16 Junio 2026",
+    "time": "23:00",
+    "group": "Grupo J",
+    "stadium": "Lumen Field",
+    "analysis": "Austria desplegará su presión asfixiante coordinada en bloque alto, forzando errores en la salida rival para definir de forma vertical e inmediata.\n\nJordania se reagrupará en campo propio procurando cerrar pasillos internos, pero la velocidad en las transiciones austriacas sobrepasará su capacidad defensiva de contención.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "1.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.3",
+        "team2": "3.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Austria",
+      "winnerProb": "70%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 38%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Marcel Sabitzer"
+    }
+  },
+  {
+    "id": "portugal-vs-rd-congo",
+    "team1": "Portugal",
+    "team2": "RD Congo",
+    "flag1": "🇵🇹",
+    "flag2": "🇨🇩",
+    "date": "17 Junio 2026",
+    "time": "12:00",
+    "group": "Grupo K",
+    "stadium": "BMO Field",
+    "analysis": "Portugal presume de una generación rebosante de talento creativo, buscando abrir el campo e imponer ataques combinativos de alta fluidez técnica.\n\nRD Congo apela a la combatividad y despliegue físico intenso en la medular. Si bien plantarán cara con disciplina, la diferencia de jerarquía individual en los metros finales inclina la balanza.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.4",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "62%",
+        "team2": "38%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.9",
+        "team2": "3.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Portugal",
+      "winnerProb": "75%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 30%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Bruno Fernandes"
+    }
+  },
+  {
+    "id": "inglaterra-vs-croacia",
+    "team1": "Inglaterra",
+    "team2": "Croacia",
+    "flag1": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag2": "🇭🇷",
+    "date": "17 Junio 2026",
+    "time": "15:00",
+    "group": "Grupo K",
+    "stadium": "MetLife Stadium",
+    "analysis": "Partidazo de pronóstico reservado. Inglaterra salta al campo con dinámica, transiciones punzantes y un frente de ataque sumamente temible en el uno contra uno.\n\nCroacia opondrá su legendaria resistencia táctica y el control absoluto del ritmo de juego mediante su experimentado mediocampo. Se definirá por contundencia en las áreas.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.1",
+        "team2": "1.5"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "53%",
+        "team2": "47%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.8",
+        "team2": "4.6"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Inglaterra",
+      "winnerProb": "48%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Harry Kane"
+    }
+  },
+  {
+    "id": "ghana-vs-panama",
+    "team1": "Ghana",
+    "team2": "Panamá",
+    "flag1": "🇬🇭",
+    "flag2": "🇵🇦",
+    "date": "17 Junio 2026",
+    "time": "18:00",
+    "group": "Grupo L",
+    "stadium": "Atlanta Stadium",
+    "analysis": "Ghana basa sus argumentos en la potencia individual y velocidad por las bandas para resquebrajar esquemas defensivos estáticos.\n\nPanamá llega con orden colectivo e intenciones de asociarse con criterio en la medular. No obstante, las falencias canaleras en retroceso veloz pueden costar caro ante el ritmo africano.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.4",
+        "team2": "1.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "48%",
+        "team2": "52%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.3",
+        "team2": "4.0"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "38%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 55%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Mohammed Kudus"
+    }
+  },
+  {
+    "id": "uzbekistan-vs-colombia",
+    "team1": "Uzbekistán",
+    "team2": "Colombia",
+    "flag1": "🇺🇿",
+    "flag2": "🇨🇴",
+    "date": "17 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo L",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Uzbekistán llega con un planteamiento sumamente disciplinado y solidario en defensa, buscando enfriar la intensidad del rival con marcas pegajosas.\n\nColombia es claro favorito impulsado por su juego combinativo de alta intensidad, transiciones rápidas y jerarquía en ataque. El conjunto cafetero intentará destrabar el duelo rápido utilizando las bandas.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.2",
+        "team2": "2.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "42%",
+        "team2": "58%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.5",
+        "team2": "5.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Colombia",
+      "winnerProb": "70%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 34%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Luis Díaz"
+    }
+  },
+  {
+    "id": "chequia-vs-sudafrica",
+    "team1": "Chequia",
+    "team2": "Sudáfrica",
+    "flag1": "🇨🇿",
+    "flag2": "🇿🇦",
+    "date": "18 Junio 2026",
+    "time": "11:00",
+    "group": "Grupo A",
+    "stadium": "Estadio Azteca",
+    "analysis": "Chequia necesita los puntos e intensificará su juego ofensivo, explotando balones parados y centros cruzados para marcar diferencias físicas.\n\nSudáfrica intentará plantarse sólidamente atrás para contragolpear con velocidad. Sufrirá si el cuadro europeo logra adelantarse e imponer su rigor de juego físico continuo.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "D"
+      ],
+      "team2": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.3",
+        "team2": "1.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.6",
+        "team2": "3.7"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Chequia",
+      "winnerProb": "52%",
+      "exactScore": "1 - 0",
+      "btts": "No (Probabilidad: 40%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Patrik Schick"
+    }
+  },
+  {
+    "id": "suiza-vs-bosnia",
+    "team1": "Suiza",
+    "team2": "Bosnia y Herzegovina",
+    "flag1": "🇨🇭",
+    "flag2": "🇧🇦",
+    "date": "18 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo B",
+    "stadium": "Mercedes-Benz Stadium",
+    "analysis": "Suiza maneja un orden colectivo excelente que le permite controlar el ritmo del encuentro y minimizar fallos en salida de balón.\n\nBosnia opondrá resistencia física en el bloque bajo, pero carece del cambio de ritmo necesario para inquietar seriamente a la estructurada defensa helvética.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "57%",
+        "team2": "43%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.2",
+        "team2": "3.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Suiza",
+      "winnerProb": "62%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 36%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Xherdan Shaqiri"
+    }
+  },
+  {
+    "id": "canada-vs-catar",
+    "team1": "Canadá",
+    "team2": "Catar",
+    "flag1": "🇨🇦",
+    "flag2": "🇶🇦",
+    "date": "18 Junio 2026",
+    "time": "17:00",
+    "group": "Grupo B",
+    "stadium": "BMO Field",
+    "analysis": "Canadá acelerará el trámite valiéndose de su velocidad punta y dinámica por bandas para ahogar la salida táctica del rival.\n\nCatar planteará un esquema hiper-conservador para contrarrestar la intensidad física canadiense, buscando capitalizar algún error puntual a balón parado.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.9",
+        "team2": "1.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "56%",
+        "team2": "44%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.4",
+        "team2": "3.2"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Canadá",
+      "winnerProb": "68%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 38%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Alphonso Davies"
+    }
+  },
+  {
+    "id": "mexico-vs-corea-del-sur",
+    "team1": "México",
+    "team2": "Corea del Sur",
+    "flag1": "🇲🇽",
+    "flag2": "🇰🇷",
+    "date": "18 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo A",
+    "stadium": "Estadio BBVA",
+    "analysis": "Encuentro vital por el liderazgo. México propondrá posesión agresiva intentando fisurar el bloque medio con triangulaciones precisas.\n\nCorea del Sur es un peligro latente al espacio; su letalidad en el contragolpe exigirá máxima concentración defensiva del cuadro local en las vigilancias de retroceso.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.7",
+        "team2": "1.6"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "52%",
+        "team2": "48%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.0",
+        "team2": "4.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "México",
+      "winnerProb": "46%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Hirving Lozano"
+    }
+  },
+  {
+    "id": "usa-vs-australia",
+    "team1": "Estados Unidos",
+    "team2": "Australia",
+    "flag1": "🇺🇸",
+    "flag2": "🇦🇺",
+    "date": "19 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo C",
+    "stadium": "MetLife Stadium",
+    "analysis": "Estados Unidos asfixiará mediante presión alta para forzar pérdidas en la rústica salida de los 'Socceroos' e imponer condiciones rápido.\n\nAustralia buscará trabar el juego en la medular recurriendo al choque físico y faltas tácticas, intentando dañar exclusivamente por vía aérea.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.0",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.0",
+        "team2": "3.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Estados Unidos",
+      "winnerProb": "60%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 35%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Timothy Weah"
+    }
+  },
+  {
+    "id": "escocia-vs-marruecos",
+    "team1": "Escocia",
+    "team2": "Marruecos",
+    "flag1": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "flag2": "🇲🇦",
+    "date": "19 Junio 2026",
+    "time": "17:00",
+    "group": "Grupo D",
+    "stadium": "NRG Stadium",
+    "analysis": "Escocia apostará por la combatividad táctica clásica, empujando con centros cruzados e intensidad en balones divididos en área contraria.\n\nMarruecos ostenta mayor calidad técnica posicional y temple en la circulación; si desactivan el ímpetu físico escocés, dominarán el trámite de juego por completo.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.5",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "46%",
+        "team2": "54%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.2",
+        "team2": "4.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Marruecos",
+      "winnerProb": "48%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 55%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Hakim Ziyech"
+    }
+  },
+  {
+    "id": "brasil-vs-haiti",
+    "team1": "Brasil",
+    "team2": "Haití",
+    "flag1": "🇧🇷",
+    "flag2": "🇭🇹",
+    "date": "19 Junio 2026",
+    "time": "19:30",
+    "group": "Grupo D",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Brasil desatará un vendaval ofensivo insostenible para el humilde combinado caribeño, ensayando variantes tácticas y amplitud por extremos.\n\nHaití se refugiará con orgullo en su área tratando de contener las oleadas ofensivas, encomendándose a una actuación milagrosa de su guardameta.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.5",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "70%",
+        "team2": "30%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "8.5",
+        "team2": "2.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Brasil",
+      "winnerProb": "94%",
+      "exactScore": "4 - 0",
+      "btts": "No (Probabilidad: 12%)",
+      "overUnder": "Más de 3.5 goles",
+      "corners": "Más de 10.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Rodrygo"
+    }
+  },
+  {
+    "id": "turquia-vs-paraguay",
+    "team1": "Turquía",
+    "team2": "Paraguay",
+    "flag1": "🇹🇷",
+    "flag2": "🇵🇾",
+    "date": "19 Junio 2026",
+    "time": "22:00",
+    "group": "Grupo C",
+    "stadium": "Levi's Stadium",
+    "analysis": "Turquía intentará desequilibrar mediante control asociativo en campo rival y pases filtrados a la espalda de los defensores paraguayos.\n\nParaguay convertirá el trámite en una batalla de fricción y contacto físico continuo, buscando desesperar el talentoso pero a veces temperamental mediocampo turco.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.7",
+        "team2": "1.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.1",
+        "team2": "3.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "42%",
+      "exactScore": "0 - 0",
+      "btts": "No (Probabilidad: 32%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 5.5",
+      "goalscorers": "Ninguno"
+    }
+  },
+  {
+    "id": "paises-bajos-vs-suecia",
+    "team1": "Países Bajos",
+    "team2": "Suecia",
+    "flag1": "🇳🇱",
+    "flag2": "🇸🇪",
+    "date": "20 Junio 2026",
+    "time": "12:00",
+    "group": "Fase de Grupos",
+    "stadium": "Lumen Field",
+    "analysis": "Cruce europeo de alto nivel táctico. La 'Naranja Mecánica' circulará con velocidad buscando superioridad posicional interior en la zona medular.\n\nSuecia resistirá compacta e intentará castigar en transiciones pesadas o juego directo explotando la envergadura física de sus delanteros centros.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.0",
+        "team2": "1.6"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "55%",
+        "team2": "45%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.7",
+        "team2": "4.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Países Bajos",
+      "winnerProb": "52%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 60%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Memphis Depay"
+    }
+  },
+  {
+    "id": "alemania-vs-costa-de-marfil",
+    "team1": "Alemania",
+    "team2": "Costa de Marfil",
+    "flag1": "🇩🇪",
+    "flag2": "🇨🇮",
     "date": "20 Junio 2026",
     "time": "15:00",
-    "group": "Grupo C",
+    "group": "Fase de Grupos",
+    "stadium": "Arrowhead Stadium",
+    "analysis": "Alemania sostendrá el dominio territorial mediante posesión paciente pero incisiva, desgastando el orden defensivo de los marfileños paso a paso.\n\nCosta de Marfil presentará dura resistencia física e intentará sorprender saliendo a toda velocidad por bandas en contragolpes directos coordinados.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.5",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "61%",
+        "team2": "39%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "7.5",
+        "team2": "4.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Alemania",
+      "winnerProb": "65%",
+      "exactScore": "3 - 1",
+      "btts": "Sí (Probabilidad: 52%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Kai Havertz"
+    }
+  },
+  {
+    "id": "ecuador-vs-curazao",
+    "team1": "Ecuador",
+    "team2": "Curazao",
+    "flag1": "🇪🇨",
+    "flag2": "🇨🇼",
+    "date": "20 Junio 2026",
+    "time": "19:00",
+    "group": "Fase de Grupos",
+    "stadium": "SoFi Stadium",
+    "analysis": "Ecuador buscará someter posicionalmente a su rival con despliegue de sus laterales y presión asfixiante tras la pérdida en campo contrario.\n\nCurazao se replegará con densidad total en su propia área buscando caotizar el ataque ecuatoriano, aunque la diferencia física jugará en su contra.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.5",
+        "team2": "0.7"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "59%",
+        "team2": "41%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.3",
+        "team2": "2.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Ecuador",
+      "winnerProb": "78%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 28%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Moisés Caicedo"
+    }
+  },
+  {
+    "id": "tunez-vs-japon",
+    "team1": "Túnez",
+    "team2": "Japón",
+    "flag1": "🇹🇳",
+    "flag2": "🇯🇵",
+    "date": "20 Junio 2026",
+    "time": "23:00",
+    "group": "Fase de Grupos",
+    "stadium": "Lincoln Financial Field",
+    "analysis": "Túnez basará su éxito en incomodar el ritmo con un bloque bajo rocoso y marcas encimadas en zona medular de contención táctica.\n\nJapón impondrá la altísima velocidad asociativa de sus mediocampistas creativos para resquebrajar el planteamiento cerrado del combinado africano.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "0.8",
+        "team2": "2.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "38%",
+        "team2": "62%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "2.9",
+        "team2": "6.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Japón",
+      "winnerProb": "64%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 35%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Kaoru Mitoma"
+    }
+  },
+  {
+    "id": "espana-vs-arabia-saudita",
+    "team1": "España",
+    "team2": "Arabia Saudita",
+    "flag1": "🇪🇸",
+    "flag2": "🇸🇦",
+    "date": "21 Junio 2026",
+    "time": "11:00",
+    "group": "Grupo G",
+    "stadium": "Gillette Stadium",
+    "analysis": "España moverá el balón de banda a banda para desordenar las líneas saudíes, desgastando físicamente el esquema de contención propuesto.\n\nArabia Saudita priorizará el orden hermético buscando forzar un error en zona de gestación española para desplegar transiciones directas aisladas.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.4",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "69%",
+        "team2": "31%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "7.4",
+        "team2": "3.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "España",
+      "winnerProb": "80%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 24%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Nico Williams"
+    }
+  },
+  {
+    "id": "belgica-vs-iran",
+    "team1": "Bélgica",
+    "team2": "Irán",
+    "flag1": "🇧🇪",
+    "flag2": "🇮🇷",
+    "date": "21 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo G",
+    "stadium": "Atlanta Stadium",
+    "analysis": "Bélgica atacará con verticalidad canalizando sus opciones a través de la creatividad de sus mediapuntas interiores en zona caliente.\n\nIrán apostará por su riguroso orden táctico en repliegue bajo, intentando neutralizar el uno contra uno belga con coberturas defensivas dobles.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.9",
+        "team2": "1.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "57%",
+        "team2": "43%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.8",
+        "team2": "3.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Bélgica",
+      "winnerProb": "58%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 42%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Leandro Trossard"
+    }
+  },
+  {
+    "id": "uruguay-vs-cabo-verde",
+    "team1": "Uruguay",
+    "team2": "Cabo Verde",
+    "flag1": "🇺🇾",
+    "flag2": "🇨🇻",
+    "date": "21 Junio 2026",
+    "time": "5:00 p. m.",
+    "group": "Grupo H",
     "stadium": "Hard Rock Stadium",
-    "analysis": "Colombia llega a este encuentro mundialista mostrando un fútbol muy dinámico y consolidado bajo el mando de Néstor Lorenzo. Con una racha sobresaliente en los últimos meses, el equipo cafetero destaca por su presión alta, transiciones rápidas por las bandas y una defensa rocosa que concede muy poco espacio. El mediocampo mantiene un control eficiente del ritmo del partido, promediando una alta posesión ante rivales que deciden ceder la iniciativa, respaldándose en el desequilibrio individual de figuras como Luis Díaz en el último tercio.\n\nPor su parte, Uzbekistán se presenta en el Mundial 2026 basando su juego en un estricto orden táctico y resiliencia defensiva, características que los llevaron a destacar en las eliminatorias asiáticas. El equipo confía plenamente en el bloque medio-bajo, el contragolpe y la capacidad de sus atacantes rápidos como Eldor Shomurodov y Abbosbek Fayzullaev. Sin embargo, a nivel técnico colectivo, suelen sufrir cuando se enfrentan a equipos sudamericanos o europeos que monopolizan la pelota y tienen gran movilidad posicional.\n\nTácticamente, se espera un dominio de Colombia con el balón, buscando penetrar la muralla de Uzbekistán. La clave del partido pasará por la paciencia del equipo colombiano para abrir el marcador sin desordenarse atrás frente a los contraataques asiáticos. La superioridad técnica individual de Colombia debería ser suficiente para inclinar la balanza a su favor en los 90 minutos, logrando romper el cerrojo defensivo.",
+    "analysis": "Uruguay arrollará con presión posicional asfixiante desde los primeros compases, forzando fallos groseros en el fondo de Cabo Verde.\n\nCabo Verde intentará resguardarse con orgullo acumulando hombres en zona baja, pero la intensidad física charrúa dominará de principio a fin.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.3",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "60%",
+        "team2": "40%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.8",
+        "team2": "2.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Uruguay",
+      "winnerProb": "82%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 20%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Federico Valverde"
+    }
+  },
+  {
+    "id": "nueva-zelanda-vs-egipto",
+    "team1": "Nueva Zelanda",
+    "team2": "Egipto",
+    "flag1": "🇳🇿",
+    "flag2": "🇪🇬",
+    "date": "21 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo H",
+    "stSummary": "MetLife Stadium",
+    "analysis": "Nueva Zelanda se apoyará en su poderío físico y centros al área buscando vulnerar la zaga central del cuadro africano.\n\nEgipto ostenta mejores individualidades técnicas capaces de definir el partido mediante pinceladas individuales en contragolpes fulminantes.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "0.9",
+        "team2": "1.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "46%",
+        "team2": "54%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.1",
+        "team2": "4.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Egipto",
+      "winnerProb": "52%",
+      "exactScore": "0 - 1",
+      "btts": "No (Probabilidad: 45%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Mostafa Mohamed"
+    }
+  },
+  {
+    "id": "argentina-vs-austria",
+    "team1": "Argentina",
+    "team2": "Austria",
+    "flag1": "🇦🇷",
+    "flag2": "🇦🇹",
+    "date": "22 Junio 2026",
+    "time": "12:00",
+    "group": "Grupo J",
+    "stadium": "NRG Stadium",
+    "analysis": "Exigente prueba táctica para la albiceleste. Argentina moverá el balón con fluidez tratando de romper la intensa presión alta austriaca.\n\nAustria ejecutará su plan agresivo característico de acoso continuo para provocar desatenciones defensivas en la salida limpia argentina.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.1",
+        "team2": "1.7"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.2",
+        "team2": "4.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Argentina",
+      "winnerProb": "55%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 55%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Julián Álvarez"
+    }
+  },
+  {
+    "id": "francia-vs-irak",
+    "team1": "Francia",
+    "team2": "Irak",
+    "flag1": "🇫🇷",
+    "flag2": "🇮🇶",
+    "date": "22 Junio 2026",
+    "time": "16:00",
+    "group": "Grupo I",
+    "stadium": "SoFi Stadium",
+    "analysis": "Francia dominará territorialmente con amplitud absoluta por bandas y rotaciones indescifrables en el último tercio de cancha.\n\nIrak se estructurará atrás acumulando el mayor número de efectivos posibles para evitar una goleada categórica ante la jerarquía gala.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.4",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "68%",
+        "team2": "32%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "7.9",
+        "team2": "2.6"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Francia",
+      "winnerProb": "90%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 18%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 10.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Antoine Griezmann"
+    }
+  },
+  {
+    "id": "noruega-vs-senegal",
+    "team1": "Noruega",
+    "team2": "Senegal",
+    "flag1": "🇳🇴",
+    "flag2": "🇸🇳",
+    "date": "22 Junio 2026",
+    "time": "19:00",
+    "group": "Grupo I",
+    "stadium": "Levi's Stadium",
+    "analysis": "Noruega encauzará su ataque a través de envíos aéreos directos y buscando explotar las segundas jugadas en la frontal de la portería contraria.\n\nSenegal opondrá un juego rocoso y potentes duelos defensivos individuales, convirtiendo el partido en una dura batalla física táctica en mediocampo.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.9",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "51%",
+        "team2": "49%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.4",
+        "team2": "4.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "40%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Sadio Mané"
+    }
+  },
+  {
+    "id": "jordania-vs-argelia",
+    "team1": "Jordania",
+    "team2": "Argelia",
+    "flag1": "🇯🇴",
+    "flag2": "🇩🇿",
+    "date": "22 Junio 2026",
+    "time": "22:00",
+    "group": "Grupo J",
+    "stadium": "Lumen Field",
+    "analysis": "Jordania priorizará el orden en la retaguardia para limitar los pasillos interiores frente al desequilibrio de los extremos argelinos.\n\nArgelia ostenta superioridad técnica y buscará hilvanar juego ofensivo posicional pausado para doblegar la resistencia del conjunto jordano.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.0",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "44%",
+        "team2": "56%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.2",
+        "team2": "4.7"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Argelia",
+      "winnerProb": "52%",
+      "exactScore": "0 - 1",
+      "btts": "No (Probabilidad: 42%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Riyad Mahrez"
+    }
+  },
+  {
+    "id": "portugal-vs-uzbekistan",
+    "team1": "Portugal",
+    "team2": "Uzbekistán",
+    "flag1": "🇵🇹",
+    "flag2": "🇺🇿",
+    "date": "23 Junio 2026",
+    "time": "12:00",
+    "group": "Grupo K",
+    "stadium": "BMO Field",
+    "analysis": "Portugal dominará los hilos del partido con posesiones prolongadas en tres cuartos de cancha y constante desborde por fuera.\n\nUzbekistán reforzará su bloque bajo acumulando defensas en la frontal del área, intentando aguantar el cero con orden estricto.",
     "recentForm": {
       "team1": [
         "W",
@@ -29,18 +2669,18 @@
     "statistics": [
       {
         "label": "Goles por partido (Últimos 5)",
-        "team1": "2.2",
-        "team2": "1.4"
+        "team1": "2.5",
+        "team2": "1.1"
       },
       {
         "label": "Posesión promedio",
-        "team1": "59%",
-        "team2": "41%"
+        "team1": "64%",
+        "team2": "36%"
       },
       {
         "label": "Tiros al arco por partido",
-        "team1": "5.5",
-        "team2": "3.2"
+        "team1": "7.1",
+        "team2": "3.0"
       },
       {
         "label": "Vallas invictas (Últimos 5)",
@@ -49,45 +2689,57 @@
       }
     ],
     "predictions": {
-      "winner": "Colombia",
-      "winnerProb": "76%",
+      "winner": "Portugal",
+      "winnerProb": "78%",
       "exactScore": "2 - 0",
-      "btts": "No (Probabilidad: 62%)",
+      "btts": "No (Probabilidad: 28%)",
       "overUnder": "Menos de 2.5 goles",
-      "corners": "Más de 8.5",
-      "cards": "Menos de 4.5",
-      "goalscorers": "Luis Díaz (Cualquier momento)"
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Rafael Leão"
     }
   },
   {
-    "id": "chequia-vs-sudafrica",
-    "team1": "Chequia",
-    "team2": "Sudáfrica",
-    "flag1": "🇨🇿",
-    "flag2": "🇿🇦",
+    "id": "inglaterra-vs-ghana",
+    "team1": "Inglaterra",
+    "team2": "Ghana",
+    "flag1": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag2": "🇬🇭",
     "date": "23 Junio 2026",
-    "time": "16:00",
-    "group": "Grupo F",
-    "stadium": "Mercedes-Benz Stadium",
-    "analysis": "Chequia llega a este encuentro del Mundial 2026 consolidado como un conjunto europeo muy físico y ordenado táctica y defensivamente. Basando su juego en un bloque medio-bajo compacto, el equipo europeo busca lastimar a sus oponentes mediante transiciones rápidas, el aprovechamiento de los balones parados y el juego aéreo. Sus últimos partidos han evidenciado una buena capacidad de adaptación frente a diferentes esquemas, mostrando solidez aunque con algunas dificultades para generar juego interior cuando el rival cede por completo la iniciativa.\n\nPor su parte, Sudáfrica se presenta con el dinamismo y la verticalidad característica de los 'Bafana Bafana'. Han demostrado un gran crecimiento técnico reciente, apostando por posesiones rápidas y desbordes constantes por los costados. Sin embargo, suelen sufrir frente a combinados europeos que imponen una superioridad en la fricción física y logran cortar sus circuitos de pases en el mediocampo, dejándolos expuestos en los retrocesos defensivos.\n\nTácticamente, se perfila un duelo donde Chequia intentará imponer condiciones físicas y dominar el ritmo del partido, buscando los espacios aéreos en el área africana. Sudáfrica apostará a agruparse y salir disparado al contragolpe aprovechando la velocidad de sus extremos. La jerarquía individual y el pragmatismo táctico inclinan la balanza hacia el cuadro checo, aunque no se descarta que los sudafricanos logren incomodar si encuentran espacios a la espalda de la defensa europea.",
+    "time": "15:00",
+    "group": "Grupo K",
+    "stadium": "MetLife Stadium",
+    "analysis": "Inglaterra manejará la iniciativa con ritmo pausado pero incisivo, buscando fisuras mediante triangulaciones en zona de peligro.\n\nGhana opondrá un planteamiento físico replegado e intentará explotar la velocidad al espacio ante retrocesos lentos ingleses.",
     "recentForm": {
-      "team1": ["D", "W", "L", "W", "W"],
-      "team2": ["W", "L", "D", "W", "L"]
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
     },
     "statistics": [
       {
         "label": "Goles por partido (Últimos 5)",
-        "team1": "1.8",
-        "team2": "1.2"
+        "team1": "1.9",
+        "team2": "1.3"
       },
       {
         "label": "Posesión promedio",
-        "team1": "54%",
-        "team2": "46%"
+        "team1": "59%",
+        "team2": "41%"
       },
       {
         "label": "Tiros al arco por partido",
-        "team1": "5.2",
+        "team1": "5.6",
         "team2": "3.8"
       },
       {
@@ -97,36 +2749,1308 @@
       }
     ],
     "predictions": {
-      "winner": "Chequia",
+      "winner": "Inglaterra",
       "winnerProb": "65%",
-      "exactScore": "2 - 1",
-      "btts": "Sí (Probabilidad: 58%)",
-      "overUnder": "Más de 2.5 goles",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 40%)",
+      "overUnder": "Menos de 2.5 goles",
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
-      "goalscorers": "Patrik Schick (Cualquier momento)"
+      "goalscorers": "Jude Bellingham"
     }
   },
   {
-    "id": "suiza-vs-bosnia-y-herzegovina",
+    "id": "panama-vs-croacia",
+    "team1": "Panamá",
+    "team2": "Croacia",
+    "flag1": "🇵🇦",
+    "flag2": "🇭🇷",
+    "date": "23 Junio 2026",
+    "time": "18:00",
+    "group": "Grupo L",
+    "stadium": "Atlanta Stadium",
+    "analysis": "Panamá intentará poblar el centro del campo ejerciendo marcas pegajosas para mitigar el ritmo superior del rival europeo.\n\nCroacia dominará los tiempos bajo la batuta asociativa de su medular, buscando desgastar físicamente la estructura panameña.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.2",
+        "team2": "1.6"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "45%",
+        "team2": "55%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.9",
+        "team2": "4.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Croacia",
+      "winnerProb": "60%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 38%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Andrej Kramarić"
+    }
+  },
+  {
+    "id": "colombia-vs-rd-congo",
+    "team1": "Colombia",
+    "team2": "RD Congo",
+    "flag1": "🇨🇴",
+    "flag2": "🇨🇩",
+    "date": "23 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo L",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Colombia propondrá un juego dinámico y veloz por las bandas buscando someter a la defensa congoleña desde el arranque.\n\nRD Congo apela al despliegue físico intenso y choque defensivo, aunque sufrirá ante la fluidez técnica y desequilibrio cafetero.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.1",
+        "team2": "1.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "59%",
+        "team2": "41%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.9",
+        "team2": "3.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Colombia",
+      "winnerProb": "72%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 28%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "James Rodríguez"
+    }
+  },
+  {
+    "id": "suiza-vs-canada",
     "team1": "Suiza",
-    "team2": "Bosnia y Herzegovina",
+    "team2": "Canadá",
     "flag1": "🇨🇭",
-    "flag2": "🇧🇦",
+    "flag2": "🇨🇦",
+    "date": "24 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo B",
+    "stadium": "Mercedes-Benz Stadium",
+    "analysis": "Choque crucial por el sector. Suiza buscará adormecer las veloces transiciones canadienses mediante posesión firme defensiva.\n\nCanadá acelerará cada jugada buscando romper el bloque ordenado europeo con su explosividad letal por los carriles externos.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.7",
+        "team2": "1.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "52%",
+        "team2": "48%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.9",
+        "team2": "5.2"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "38%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 62%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Jonathan David"
+    }
+  },
+  {
+    "id": "bosnia-vs-catar",
+    "team1": "Bosnia y Herzegovina",
+    "team2": "Catar",
+    "flag1": "🇧🇦",
+    "flag2": "🇶🇦",
+    "date": "24 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo B",
+    "stadium": "BMO Field",
+    "analysis": "Bosnia intentará imponer su mayor jerarquía física europea en las dos áreas para destrabar el partido por arriba.\n\nCatar planteará resistencia multiplicando marcas fijas en su zona, confiando en contragolpes aislados rápidos de sus atacantes.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.3",
+        "team2": "1.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.1",
+        "team2": "3.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Bosnia y Herzegovina",
+      "winnerProb": "52%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 50%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Edin Džeko"
+    }
+  },
+  {
+    "id": "escocia-vs-brasil",
+    "team1": "Escocia",
+    "team2": "Brasil",
+    "flag1": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "flag2": "🇧🇷",
+    "date": "24 Junio 2026",
+    "time": "17:00",
+    "group": "Grupo D",
+    "stadium": "NRG Stadium",
+    "analysis": "Escocia endurecerá las marcas basándose en juego de contacto intenso buscando maniatar las transiciones creativas brasileñas.\n\nBrasil exhibirá su repertorio asociativo a un toque y desequilibrio para superar el cerrojo defensivo propuesto por el cuadro europeo.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.4",
+        "team2": "2.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "41%",
+        "team2": "59%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.9",
+        "team2": "7.2"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Brasil",
+      "winnerProb": "68%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 38%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Neymar"
+    }
+  },
+  {
+    "id": "marruecos-vs-haiti",
+    "team1": "Marruecos",
+    "team2": "Haití",
+    "flag1": "🇲🇦",
+    "flag2": "🇭🇹",
+    "date": "24 Junio 2026",
+    "time": "17:00",
+    "group": "Grupo D",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Marruecos controlará cómodamente la posesión buscando desgastar con juego de amplitud el frágil bloque bajo caribeño.\n\nHaití se plantará enteramente replegado intentando sostener su portería a cero mediante coberturas solidarias al límite de la falta.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "L",
+        "D",
+        "W",
+        "L",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.5",
+        "team2": "0.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "62%",
+        "team2": "38%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.3",
+        "team2": "2.7"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Marruecos",
+      "winnerProb": "78%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 22%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Youssef En-Nesyri"
+    }
+  },
+  {
+    "id": "chequia-vs-mexico",
+    "team1": "Chequia",
+    "team2": "México",
+    "flag1": "🇨🇿",
+    "flag2": "🇲🇽",
     "date": "24 Junio 2026",
     "time": "20:00",
-    "group": "Grupo G",
-    "stadium": "Levi's Stadium",
-    "analysis": "Suiza afronta este compromiso de la Copa del Mundo consolidado como un equipo con gran madurez táctica, orden defensivo y alta efectividad en la circulación del balón. El mediocampo helvético maneja con solvencia los ritmos del partido, apoyándose en transiciones limpias y un bloque defensivo compacto que concede pocos espacios. En sus últimos encuentros internacionales, han demostrado ser un rival difícil de quebrar, con un juego colectivo coordinado y versatilidad para presionar en campo contrario.\n\nPor otro lado, Bosnia y Herzegovina se presenta como un rival competitivo pero que atraviesa cierta irregularidad en su funcionamiento defensivo. El conjunto bosnio confía su juego en la fortaleza física, el fútbol directo y la contundencia en las jugadas a balón parado. Sin embargo, suelen sufrir cuando se enfrentan a escuadras con dinámicas asociativas rápidas en la zona medular, lo que tiende a fracturar sus líneas y dejarlos expuestos en las transiciones defensivas.\n\nTácticamente, el encuentro estará marcado por el control de la posesión por parte de Suiza, que buscará desgastar el bloque bajo de Bosnia moviendo el balón de lado a lado. La paciencia y la jerarquía individual en el último tercio de los suizos serán fundamentales para abrir el marcador, mientras que Bosnia intentará replegarse y castigar mediante contraataques aislados. La solidez colectiva e histórica regularidad de Suiza la colocan como la principal favorita para llevarse el triunfo.",
+    "group": "Grupo A",
+    "stadium": "Estadio Azteca",
+    "analysis": "Chequia disputará palmo a palmo el encuentro recargando su fútbol directo y balones detenidos para incomodar la zaga mexicana.\n\nMéxico responderá imponiendo circulación técnica veloz por bandas intentando sortear el rigor defensivo central europeo.",
     "recentForm": {
-      "team1": ["W", "D", "W", "D", "W"],
-      "team2": ["L", "W", "L", "D", "L"]
+      "team1": [
+        "D",
+        "W",
+        "W",
+        "L",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.4",
+        "team2": "1.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "46%",
+        "team2": "54%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.2",
+        "team2": "5.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "México",
+      "winnerProb": "48%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 56%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Santiago Giménez"
+    }
+  },
+  {
+    "id": "sudafrica-vs-corea-del-sur",
+    "team1": "Sudáfrica",
+    "team2": "Corea del Sur",
+    "flag1": "🇿🇦",
+    "flag2": "🇰🇷",
+    "date": "24 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo A",
+    "stadium": "Estadio BBVA",
+    "analysis": "Sudáfrica redoblará esfuerzos en repliegue estricto bloqueando pasillos ante el vertiginoso ritmo dinámico asiático.\n\nCorea del Sur atacará en oleadas rápidas valiéndose de transiciones inmediatas para asegurar su boleto a la siguiente fase clasificatoria.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.1",
+        "team2": "1.6"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "43%",
+        "team2": "57%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.5",
+        "team2": "5.0"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Corea del Sur",
+      "winnerProb": "60%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 38%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Hwang Hee-chan"
+    }
+  },
+  {
+    "id": "ecuador-vs-alemania",
+    "team1": "Ecuador",
+    "team2": "Alemania",
+    "flag1": "🇪🇨",
+    "flag2": "🇩🇪",
+    "date": "25 Junio 2026",
+    "time": "15:00",
+    "group": "Fase de Grupos",
+    "stadium": "SoFi Stadium",
+    "analysis": "Exigente prueba de fuego. Ecuador expondrá su bloque medio atlético para incomodar la salida controlada teutona.\n\nAlemania planteará dominio posicional asfixiante abriendo la cancha con extremos veloces para fisurar el cerrojo defensivo ecuatoriano.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.4",
+        "team2": "2.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "45%",
+        "team2": "55%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.6",
+        "team2": "6.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Alemania",
+      "winnerProb": "54%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Ilkay Gündogan"
+    }
+  },
+  {
+    "id": "curazao-vs-costa-de-marfil",
+    "team1": "Curazao",
+    "team2": "Costa de Marfil",
+    "flag1": "🇨🇼",
+    "flag2": "🇨🇮",
+    "date": "25 Junio 2026",
+    "time": "15:00",
+    "group": "Fase de Grupos",
+    "stadium": "Arrowhead Stadium",
+    "analysis": "Curazao luchará acumulando defensores en su área para aguantar la enorme potencia atlética de los africanos.\n\nCosta de Marfil atacará de forma directa imponiendo su despliegue físico superior para desnivelar rápido el marcador.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "0.8",
+        "team2": "1.5"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "36%",
+        "team2": "64%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "2.4",
+        "team2": "5.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Costa de Marfil",
+      "winnerProb": "70%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 32%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Sébastien Haller"
+    }
+  },
+  {
+    "id": "tunez-vs-paises-bajos",
+    "team1": "Túnez",
+    "team2": "Países Bajos",
+    "flag1": "🇹🇳",
+    "flag2": "🇳🇱",
+    "date": "25 Junio 2026",
+    "time": "18:00",
+    "group": "Fase de Grupos",
+    "stadium": "Lincoln Financial Field",
+    "analysis": "Túnez se agrupará firmemente en zona defensiva intentando cortar los fluidos circuitos de toque de la escuadra europea.\n\nPaíses Bajos impondrá su dinámica posicional haciendo ancha la cancha con carrileros punzantes para liquidar el encuentro.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "W",
+        "L",
+        "D",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "0.9",
+        "team2": "2.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "35%",
+        "team2": "65%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "2.8",
+        "team2": "6.0"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Países Bajos",
+      "winnerProb": "74%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 34%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Xavi Simons"
+    }
+  },
+  {
+    "id": "japon-vs-suecia",
+    "team1": "Japón",
+    "team2": "Suecia",
+    "flag1": "🇯🇵",
+    "flag2": "🇸🇪",
+    "date": "25 Junio 2026",
+    "time": "18:00",
+    "group": "Fase de Grupos",
+    "stadium": "Lumen Field",
+    "analysis": "Choque de estilos contrapuestos. Japón someterá con transiciones veloces y técnica de asociación veloz en zona medular.\n\nSuecia recurrirá al orden hermético y buscará lastimar de contragolpe directo valiéndose de su poderío físico en ataque.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.2",
+        "team2": "1.7"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "53%",
+        "team2": "47%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.1",
+        "team2": "4.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Japón",
+      "winnerProb": "48%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Ritsu Doan"
+    }
+  },
+  {
+    "id": "turquia-vs-estados-unidos",
+    "team1": "Turquía",
+    "team2": "Estados Unidos",
+    "flag1": "🇹🇷",
+    "flag2": "🇺🇸",
+    "date": "25 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo C",
+    "stadium": "Levi's Stadium",
+    "analysis": "Atractivo duelo técnico. Turquía buscará manejar los hilos del centro de la cancha rompiendo líneas con criterio ofensivo.\n\nEstados Unidos contestará aplicando su intensidad atlética habitual de presión extendida para forzar errores en la medular rival.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "L",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
     },
     "statistics": [
       {
         "label": "Goles por partido (Últimos 5)",
         "team1": "1.6",
-        "team2": "1.0"
+        "team2": "1.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "48%",
+        "team2": "52%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.8",
+        "team2": "5.6"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "40%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 60%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Folarin Balogun"
+    }
+  },
+  {
+    "id": "paraguay-vs-australia",
+    "team1": "Paraguay",
+    "team2": "Australia",
+    "flag1": "🇵🇾",
+    "flag2": "🇦🇺",
+    "date": "25 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo C",
+    "stadium": "MetLife Stadium",
+    "analysis": "Paraguay impondrá su característico planteamiento friccionado buscando segundas pelotas e intensidad defensiva contundente.\n\nAustralia buscará equilibrar la exigencia física apostando por el juego directo y la fortaleza en juego aéreo en las áreas.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.0",
+        "team2": "1.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "49%",
+        "team2": "51%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.3",
+        "team2": "3.6"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Paraguay",
+      "winnerProb": "45%",
+      "exactScore": "1 - 0",
+      "btts": "No (Probabilidad: 35%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 5.5",
+      "goalscorers": "Miguel Almirón"
+    }
+  },
+  {
+    "id": "noruega-vs-francia",
+    "team1": "Noruega",
+    "team2": "Francia",
+    "flag1": "🇳🇴",
+    "flag2": "🇫🇷",
+    "date": "26 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo I",
+    "stadium": "Levi's Stadium",
+    "analysis": "Noruega buscará alimentar constantemente a su delantero referente para romper el sólido parado táctico del combinado galo.\n\nFrancia impondrá sus transiciones letales y superior jerarquía de plantel combinando posesión paciente con arranques explosivos en ataque.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "2.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "44%",
+        "team2": "56%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.1",
+        "team2": "6.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Francia",
+      "winnerProb": "58%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 55%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Kylian Mbappé"
+    }
+  },
+  {
+    "id": "senegal-vs-irak",
+    "team1": "Senegal",
+    "team2": "Irak",
+    "flag1": "🇸🇳",
+    "flag2": "🇮🇶",
+    "date": "26 Junio 2026",
+    "time": "14:00",
+    "group": "Grupo I",
+    "stadium": "SoFi Stadium",
+    "analysis": "Senegal saldrá a dominar basándose en potencia y velocidad física por bandas desbordando constantemente a la zaga defensiva rival.\n\nIrak replegará líneas de contención buscando aburrir el ritmo del partido con defensas densas en campo propio.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.5",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.4",
+        "team2": "2.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Senegal",
+      "winnerProb": "65%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 36%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Boulaye Dia"
+    }
+  },
+  {
+    "id": "uruguay-vs-espana",
+    "team1": "Uruguay",
+    "team2": "España",
+    "flag1": "🇺🇾",
+    "flag2": "🇪🇸",
+    "date": "26 Junio 2026",
+    "time": "19:00",
+    "group": "Fase de Grupos",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Espectacular duelo de colosos. Uruguay presionará asfixiante con su bloque alto buscando incomodar la gestación fluida de 'La Roja'.\n\nEspaña moverá el esférico con máxima precisión asociativa intentando desgastar el ímpetu físico e intensidad defensiva charrúa.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.2",
+        "team2": "2.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "46%",
+        "team2": "54%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.1",
+        "team2": "6.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "42%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Darwin Núñez"
+    }
+  },
+  {
+    "id": "cabo-verde-vs-arabia-saudita",
+    "team1": "Cabo Verde",
+    "team2": "Arabia Saudita",
+    "flag1": "🇨🇻",
+    "flag2": "🇸🇦",
+    "date": "26 Junio 2026",
+    "time": "19:00",
+    "group": "Fase de Grupos",
+    "stadium": "Gillette Stadium",
+    "analysis": "Partido equilibrado. Cabo Verde apostará por fortaleza defensiva y transiciones rápidas intentando lastimar al espacio.\n\nArabia Saudita buscará imponer su mayor experiencia competitiva internacional controlando el balón y los tiempos pausados en el mediocampo.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.0",
+        "team2": "1.1"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "48%",
+        "team2": "52%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.2",
+        "team2": "3.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "38%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 52%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Salem Al-Dawsari"
+    }
+  },
+  {
+    "id": "nueva-zelanda-vs-belgica",
+    "team1": "Nueva Zelanda",
+    "team2": "Bélgica",
+    "flag1": "🇳🇿",
+    "flag2": "🇧🇪",
+    "date": "26 Junio 2026",
+    "time": "22:00",
+    "group": "Fase de Grupos",
+    "stadium": "MetLife Stadium",
+    "analysis": "Nueva Zelanda intentará repeler los ataques acumulando defensores densamente en el borde de su propia área de castigo.\n\nBélgica desplegará toda su fluidez técnica individual en zona ofensiva buscando quebrar el marcador temprano en el encuentro.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "0.8",
+        "team2": "2.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "34%",
+        "team2": "66%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "2.5",
+        "team2": "6.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Bélgica",
+      "winnerProb": "78%",
+      "exactScore": "0 - 3",
+      "btts": "No (Probabilidad: 26%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Lois Openda"
+    }
+  },
+  {
+    "id": "egipto-vs-iran",
+    "team1": "Egipto",
+    "team2": "Irán",
+    "flag1": "🇪🇬",
+    "flag2": "🇮🇷",
+    "date": "26 Junio 2026",
+    "time": "22:00",
+    "group": "Fase de Grupos",
+    "stadium": "Atlanta Stadium",
+    "analysis": "Duelo táctico cerrado. Egipto esperará ordenado en bloque medio para contragolpear usando velocidad punzante por fuera.\n\nIrán mantendrá su rigurosidad defensiva habitual intentando capitalizar jugadas de pelota quieta o algún descuido rival.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.3",
+        "team2": "1.3"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "51%",
+        "team2": "49%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.1",
+        "team2": "3.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "42%",
+      "exactScore": "0 - 0",
+      "btts": "No (Probabilidad: 30%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Ninguno"
+    }
+  },
+  {
+    "id": "panama-vs-inglaterra",
+    "team1": "Panamá",
+    "team2": "Inglaterra",
+    "flag1": "🇵🇦",
+    "flag2": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "date": "27 Junio 2026",
+    "time": "16:00",
+    "group": "Grupo L",
+    "stadium": "Atlanta Stadium",
+    "analysis": "Panamá buscará plantar cara redoblando coberturas solidarias defensivas para contener el asedio del rival europeo.\n\nInglaterra impondrá su abismal jerarquía posicional moviendo el esférico con soltura para liquidar rápido el partido.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "L",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.3",
+        "team2": "2.0"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "38%",
+        "team2": "62%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.1",
+        "team2": "5.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Inglaterra",
+      "winnerProb": "78%",
+      "exactScore": "0 - 3",
+      "btts": "No (Probabilidad: 28%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Bukayo Saka"
+    }
+  },
+  {
+    "id": "croacia-vs-ghana",
+    "team1": "Croacia",
+    "team2": "Ghana",
+    "flag1": "🇭🇷",
+    "flag2": "🇬🇭",
+    "date": "27 Junio 2026",
+    "time": "16:00",
+    "group": "Grupo K",
+    "stadium": "MetLife Stadium",
+    "analysis": "Croacia dominará la zona de gestación manejando los hilos tácticos con circulación limpia a un toque.\n\nGhana apelará a la fricción física en la medular y despliegues veloces de contragolpe directo buscando sorprender.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.5",
+        "team2": "1.3"
       },
       {
         "label": "Posesión promedio",
@@ -136,45 +4060,357 @@
       {
         "label": "Tiros al arco por partido",
         "team1": "4.8",
-        "team2": "3.4"
+        "team2": "3.9"
       },
       {
         "label": "Vallas invictas (Últimos 5)",
-        "team1": "3",
+        "team1": "2",
         "team2": "1"
       }
     ],
     "predictions": {
-      "winner": "Suiza",
-      "winnerProb": "68%",
-      "exactScore": "2 - 0",
-      "btts": "No (Probabilidad: 64%)",
-      "overUnder": "Menos de 2.5 goles",
-      "corners": "Más de 9.5",
-      "cards": "Menos de 4.5",
-      "goalscorers": "Breel Embolo (Cualquier momento)"
+      "winner": "Croacia",
+      "winnerProb": "55%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 52%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Luka Modrić"
     }
   },
   {
-    "id": "canada-vs-catar",
-    "team1": "Canadá",
-    "team2": "Catar",
-    "flag1": "🇨🇦",
-    "flag2": "🇶🇦",
-    "date": "25 Junio 2026",
-    "time": "19:00",
-    "group": "Grupo A",
-    "stadium": "BC Place",
-    "analysis": "Canadá llega a este partido mundialista en su propio territorio mostrando una evolución futbolística notable y una propuesta de juego de alta intensidad. Bajo su actual dirección técnica, el conjunto canadiense destaca por la velocidad y el desequilibrio en las bandas, transiciones ofensivas verticales extremadamente rápidas y una presión asfixiante tras pérdida de balón. En sus últimos compromisos internacionales, han demostrado solidez defensiva y contundencia, apoyados por el dinamismo de figuras consolidadas en el fútbol europeo.\n\nPor su parte, Catar afronta este partido con un planteamiento basado en el orden táctico, la posesión progresiva del balón y asociaciones en el medio sector que intentan dormir el ritmo del partido. El conjunto asiático ha mostrado un crecimiento competitivo en los últimos años, recostándose en un bloque defensivo medio-bajo compacto para intentar contragolpear con pases largos precisos hacia sus atacantes. Sin embargo, suelen exhibir falencias cuando se miden a escuadras con un ritmo de juego vertiginoso y de mucha fricción física en las bandas.\n\nTácticamente, se espera un dominio posicional de Canadá impulsado por el empuje de su afición local. La clave para la escuadra norteamericana será mantener la precisión en el último tercio para resquebrajar el poblado bloque defensivo catarí. Para Catar, la resistencia física y la efectividad en las transiciones defensivas serán vitales si quieren aspirar a sumar puntos. La superioridad técnica colectiva y el factor de localía posicionan a Canadá como amplio favorito.",
+    "id": "colombia-vs-portugal",
+    "team1": "Colombia",
+    "team2": "Portugal",
+    "flag1": "🇨🇴",
+    "flag2": "🇵🇹",
+    "date": "27 Junio 2026",
+    "time": "18:30",
+    "group": "Grupo L",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Partidazo de alto voltaje posicional. Colombia atacará con transiciones veloces e intensidad ofensiva en bloque alto.\n\nPortugal responderá imponiendo su calidad asociativa y rotación constante buscando desactivar la presión cafetera.",
     "recentForm": {
-      "team1": ["W", "D", "W", "L", "W"],
-      "team2": ["D", "W", "L", "D", "W"]
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ]
     },
     "statistics": [
       {
         "label": "Goles por partido (Últimos 5)",
-        "team1": "1.8",
+        "team1": "2.0",
+        "team2": "2.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "48%",
+        "team2": "52%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.6",
+        "team2": "6.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "38%",
+      "exactScore": "2 - 2",
+      "btts": "Sí (Probabilidad: 68%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Luis Díaz"
+    }
+  },
+  {
+    "id": "rd-congo-vs-uzbekistan",
+    "team1": "RD Congo",
+    "team2": "Uzbekistán",
+    "flag1": "🇨🇩",
+    "flag2": "🇺🇿",
+    "date": "27 Junio 2026",
+    "time": "18:30",
+    "group": "Grupo K",
+    "stadium": "BMO Field",
+    "analysis": "RD Congo basará sus chances en trabar la zona medular apelando al choque físico continuo defensivo.\n\nUzbekistán mantendrá orden estricto buscando desequilibrar pacientemente a través de jugadas elaboradas de banda.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.0",
         "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "47%",
+        "team2": "53%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.2",
+        "team2": "3.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "40%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 50%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Eldor Shomurodov"
+    }
+  },
+  {
+    "id": "jordania-vs-argentina",
+    "team1": "Jordania",
+    "team2": "Argentina",
+    "flag1": "🇯🇴",
+    "flag2": "🇦🇷",
+    "date": "27 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo J",
+    "stadium": "Lumen Field",
+    "analysis": "Jordania planteará barricadas defensivas extremas tratando de resistir el absoluto control de balón albiceleste.\n\nArgentina asediará con paciencia asociativa buscando desajustar el bloque bajo rival y sentenciar la clasificación grupal.",
+    "recentForm": {
+      "team1": [
+        "L",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "0.9",
+        "team2": "2.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "31%",
+        "team2": "69%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "2.4",
+        "team2": "7.0"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Argentina",
+      "winnerProb": "85%",
+      "exactScore": "0 - 3",
+      "btts": "No (Probabilidad: 20%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 10.5",
+      "cards": "Menos de 3.5",
+      "goalscorers": "Lionel Messi"
+    }
+  },
+  {
+    "id": "argelia-vs-austria",
+    "team1": "Argelia",
+    "team2": "Austria",
+    "flag1": "🇩🇿",
+    "flag2": "🇦🇹",
+    "date": "27 Junio 2026",
+    "time": "21:00",
+    "group": "Grupo J",
+    "stadium": "NRG Stadium",
+    "analysis": "Argelia buscará equilibrar las acciones mediante técnica de control en la medular y pases profundos directos.\n\nAustria aplicará su característico vértigo de presión coordinada en bloque alto exigiendo máximo esfuerzo defensivo argelino.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.3",
+        "team2": "1.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "46%",
+        "team2": "54%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.9",
+        "team2": "5.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "1",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Austria",
+      "winnerProb": "52%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 55%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Michael Gregoritsch"
+    }
+  },
+  {
+    "id": "sudafrica-vs-canada",
+    "team1": "Sudáfrica",
+    "team2": "Canadá",
+    "flag1": "🇿🇦",
+    "flag2": "🇨🇦",
+    "date": "28 Junio 2026",
+    "time": "14:00",
+    "group": "Dieciseisavos de Final",
+    "stadium": "Estadio Azteca",
+    "analysis": "Duelo de eliminación directa. Sudáfrica priorizará replegarse con solidez estricta bloqueando pasillos interiores veloces.\n\nCanadá asumirá el rol protagónico acelerando el ritmo por bandas valiéndose de su notable dinámica vertical ofensiva.",
+    "recentForm": {
+      "team1": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.1",
+        "team2": "1.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "42%",
+        "team2": "58%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "3.4",
+        "team2": "5.3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Canadá",
+      "winnerProb": "58%",
+      "exactScore": "0 - 2",
+      "btts": "No (Probabilidad: 38%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Cyle Larin"
+    }
+  },
+  {
+    "id": "brasil-vs-japon",
+    "team1": "Brasil",
+    "team2": "Japón",
+    "flag1": "🇧🇷",
+    "flag2": "🇯🇵",
+    "date": "29 Junio 2026",
+    "time": "12:00",
+    "group": "Dieciseisavos de Final",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Espectáculo táctico asegurado. Brasil desplegará toda su inventiva individual rompiendo bloques mediante movilidad y desequilibrio.\n\nJapón opondrá un orden colectivo impecable y contragolpes letales hilvanados a máxima velocidad en transiciones cortas.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.4",
+        "team2": "2.2"
       },
       {
         "label": "Posesión promedio",
@@ -183,8 +4419,248 @@
       },
       {
         "label": "Tiros al arco por partido",
-        "team1": "5.0",
-        "team2": "3.4"
+        "team1": "6.8",
+        "team2": "5.9"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Brasil",
+      "winnerProb": "54%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 62%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Vinícius Júnior"
+    }
+  },
+  {
+    "id": "alemania-vs-paraguay",
+    "team1": "Alemania",
+    "team2": "Paraguay",
+    "flag1": "🇩🇪",
+    "flag2": "🇵🇾",
+    "date": "29 Junio 2026",
+    "time": "15:30",
+    "group": "Dieciseisavos de Final",
+    "stadium": "Arrowhead Stadium",
+    "analysis": "Alemania asediará territorialmente imponiendo circulación rápida e incisiva en el último tercio de cancha rival.\n\nParaguay convertirá el duelo en una aduana de fricción física extrema defendiendo su área con fiereza característica.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.5",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "64%",
+        "team2": "36%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "7.3",
+        "team2": "3.1"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Alemania",
+      "winnerProb": "70%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 32%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 10.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Niclas Füllkrug"
+    }
+  },
+  {
+    "id": "paises-bajos-vs-marruecos",
+    "team1": "Países Bajos",
+    "team2": "Marruecos",
+    "flag1": "🇳🇱",
+    "flag2": "🇲🇦",
+    "date": "29 Junio 2026",
+    "time": "20:00",
+    "group": "Dieciseisavos de Final",
+    "stadium": "Lumen Field",
+    "analysis": "Duelo sumamente trabado. La escuadra neerlandesa buscará superioridad numérica posicional abriendo líneas defensivas.\n\nMarruecos opondrá su implacable repliegue solidario escalonando marcas para salir a velocidad por las bandas contrarias.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.0",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5.8",
+        "team2": "4.2"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Países Bajos",
+      "winnerProb": "52%",
+      "exactScore": "1 - 0",
+      "btts": "No (Probabilidad: 42%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Cody Gakpo"
+    }
+  },
+  {
+    "id": "costa-de-marfil-vs-noruega",
+    "team1": "Costa de Marfil",
+    "team2": "Noruega",
+    "flag1": "🇨🇮",
+    "flag2": "🇳🇴",
+    "date": "30 Junio 2026",
+    "time": "12:00",
+    "group": "Dieciseisavos de Final",
+    "stadium": "SoFi Stadium",
+    "analysis": "Costa de Marfil intentará imponer condiciones con un bloque físico robusto y ataques veloces directos por carriles externos.\n\nNoruega encauzará sus opciones ofensivas a través de centros al área buscando activar la potencia de su atacante estelar.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.4",
+        "team2": "1.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "48%",
+        "team2": "52%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4.1",
+        "team2": "5.4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Noruega",
+      "winnerProb": "52%",
+      "exactScore": "1 - 2",
+      "btts": "Sí (Probabilidad: 56%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Erling Haaland"
+    }
+  },
+  {
+    "id": "francia-vs-suecia",
+    "team1": "Francia",
+    "team2": "Suecia",
+    "flag1": "🇫🇷",
+    "flag2": "🇸🇪",
+    "date": "30 Junio 2026",
+    "time": "16:00",
+    "group": "Dieciseisavos de Final",
+    "stadium": "Lincoln Financial Field",
+    "analysis": "Francia dominará territorialmente combinando control posicional pausado y aceleraciones letales en el último cuarto de cancha.\n\nSuecia resistirá compacta en su propio campo intentando dañar exclusivamente por vía aérea o balones detenidos aislados.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.3",
+        "team2": "1.6"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "59%",
+        "team2": "41%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.8",
+        "team2": "4.6"
       },
       {
         "label": "Vallas invictas (Últimos 5)",
@@ -193,62 +4669,74 @@
       }
     ],
     "predictions": {
-      "winner": "Canadá",
-      "winnerProb": "71%",
+      "winner": "Francia",
+      "winnerProb": "64%",
       "exactScore": "2 - 0",
-      "btts": "No (Probabilidad: 65%)",
+      "btts": "No (Probabilidad: 38%)",
       "overUnder": "Menos de 2.5 goles",
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
-      "goalscorers": "Jonathan David (Cualquier momento)"
+      "goalscorers": "Kylian Mbappé"
     }
   },
   {
-    "id": "mexico-vs-corea-del-sur",
+    "id": "mexico-vs-ecuador",
     "team1": "México",
-    "team2": "Corea del Sur",
+    "team2": "Ecuador",
     "flag1": "🇲🇽",
-    "flag2": "🇰🇷",
-    "date": "18 Junio 2026",
-    "time": "20:00",
-    "group": "Grupo A",
-    "stadium": "Estadio Guadalajara",
-    "analysis": "México llega a este trascendental partido tras un sólido debut en el que derrotó 2-0 a Sudáfrica, mostrando la disciplina y el orden defensivo característicos de la gestión de Javier Aguirre. Sin embargo, el conjunto anfitrión se enfrenta a un serio reto táctico debido a la suspensión de su defensor central César Montes por tarjeta roja. Se espera que Edson Álvarez retrase su posición para liderar la zaga en un esquema 4-1-4-1 que priorizará la presión media, el manejo del ritmo del juego y el empuje de su afición local en Guadalajara para adueñarse de la posesión.\n\nPor su parte, Corea del Sur demostró una enorme resiliencia en la primera jornada al remontar y vencer 2-1 a Chequia. El combinado asiático basará su propuesta en un bloque dinámico comandado por Kim Min-jae en defensa y la creatividad de Lee Kang-in en la zona de mediapuntas, buscando constantemente activar la velocidad en transición de Son Heung-min. A pesar de su alta peligrosidad al contragolpe, el equipo surcoreano ha mostrado ciertas licencias en su retroceso defensivo durante sus últimos compromisos, concediendo más goles de los esperados.\n\nTácticamente, el encuentro se perfila como una intensa batalla por el liderato del Grupo A. México intentará adormecer las transiciones rápidas de los asiáticos mediante un juego posicional inteligente y vigilancias defensivas estrictas sobre los extremos. Ante la sólida propuesta defensiva mexicana, que apenas ha recibido goles en lo que va del año, se proyecta un partido sumamente cerrado, de pocos espacios y de un desarrollo estratégico donde la localía y la contundencia de Raúl Jiménez podrían inclinar la balanza por la mínima diferencia.",
+    "flag2": "🇪🇨",
+    "date": "30 Junio 2026",
+    "time": "21:00",
+    "group": "Dieciseisavos de Final",
+    "stadium": "SoFi Stadium, Los Angeles",
+    "analysis": "El enfrentamiento de dieciseisavos de final entre México y Ecuador presenta un choque de estilos sumamente equilibrado y de alta intensidad en el plano táctico. La selección mexicana llega mostrando un fútbol de propuesta ofensiva y presión en bloque medio-alto, buscando dominar la posesión de balón en el último tercio y explotar la velocidad por las bandas. Sin embargo, el combinado azteca ha evidenciado licencias defensivas cuando el rival salta líneas con rapidez, un factor de alto riesgo frente a transiciones verticales de primer nivel.\n\nPor su parte, Ecuador se planta como un equipo altamente competitivo, caracterizado por su rigurosidad física y un repliegue defensivo impecable coordinado desde el mediocampo. El conjunto meridional prefiere ceder la iniciativa posicional para presionar los errores de entrega y activar contragolpes fulminantes aprovechando la potencia de sus extremos. La clave del encuentro radicará en la efectividad de México para quebrar el orden de la zaga ecuatoriana sin descompensar su retaguardia, lo que anticipa un duelo cerrado que podría definirse por detalles tácticos o jugadas a balón parado.",
     "recentForm": {
-      "team1": ["W", "W", "D", "W", "W"],
-      "team2": ["W", "D", "W", "L", "D"]
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "L",
+        "W",
+        "D",
+        "W"
+      ]
     },
     "statistics": [
       {
         "label": "Goles por partido (Últimos 5)",
-        "team1": "1.6",
+        "team1": "1.8",
         "team2": "1.4"
       },
       {
         "label": "Posesión promedio",
         "team1": "54%",
-        "team2": "48%"
+        "team2": "46%"
       },
       {
         "label": "Tiros al arco por partido",
-        "team1": "5",
-        "team2": "4"
+        "team1": "5.2",
+        "team2": "4.6"
       },
       {
         "label": "Vallas invictas (Últimos 5)",
-        "team1": "3",
-        "team2": "1"
+        "team1": "2",
+        "team2": "3"
       }
     ],
     "predictions": {
       "winner": "México",
-      "winnerProb": "54%",
-      "exactScore": "1 - 0",
-      "btts": "No (Probabilidad: 58%)",
-      "overUnder": "Menos de 2.5 goles",
-      "corners": "Más de 9.5",
-      "cards": "Más de 3.5",
-      "goalscorers": "Raúl Jiménez (Cualquier momento)"
+      "winnerProb": "52%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Santiago Giménez"
     }
   }
 ]
