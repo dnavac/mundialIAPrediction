@@ -34,7 +34,7 @@ export default function RootLayout({ children }) {
         <header className="header">
           <div className="container header-content">
             <Link href="/" className="logo">Mundial IA</Link>
-            <nav style={{ display: 'flex', gap: '1rem', fontWeight: '500', flexWrap: 'wrap' }}>
+            <nav style={{ display: 'flex', gap: '1rem', fontWeight: '500', flexWrap: 'wrap', justifyContent: 'center' }}>
               <Link href="/">Inicio</Link>
               <Link href="/grupos">Grupos</Link>
               <Link href="/estadisticas">Estadísticas</Link>
