@@ -5,6 +5,14 @@ import AdSenseInit from './components/AdSenseInit';
 export const metadata = {
   title: 'MundialPredicciones IA - Mundial 2026',
   description: 'Predicciones precisas del Mundial 2026 generadas por Inteligencia Artificial. Resultados, goleadores, córners y más.',
+  openGraph: {
+    title: 'PredictionMatches',
+    description: 'Predicciones del Mundial 2026 con IA',
+    url: 'https://predictionmatches.com',
+    siteName: 'PredictionMatches',
+    locale: 'es_ES',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({ children }) {
@@ -26,10 +34,11 @@ export default function RootLayout({ children }) {
         <header className="header">
           <div className="container header-content">
             <Link href="/" className="logo">Mundial IA</Link>
-            <nav style={{ display: 'flex', gap: '1rem', fontWeight: '500' }}>
+            <nav style={{ display: 'flex', gap: '1rem', fontWeight: '500', flexWrap: 'wrap' }}>
               <Link href="/">Inicio</Link>
               <Link href="/grupos">Grupos</Link>
               <Link href="/estadisticas">Estadísticas</Link>
+              <Link href="/acerca-de">Acerca de</Link>
             </nav>
           </div>
         </header>
@@ -72,8 +81,15 @@ export default function RootLayout({ children }) {
 
         </main>
 
-        <footer style={{ backgroundColor: 'var(--card-bg)', padding: '2rem 0', textAlign: 'center', borderTop: '1px solid var(--card-border)', color: 'var(--text-muted)' }}>
+        <footer style={{ backgroundColor: 'var(--card-bg)', padding: '2.5rem 0', textAlign: 'center', borderTop: '1px solid var(--card-border)', color: 'var(--text-muted)' }}>
           <div className="container">
+            <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', marginBottom: '1.25rem', flexWrap: 'wrap' }}>
+              <Link href="/" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', transition: 'color 0.2s' }}>Inicio</Link>
+              <Link href="/grupos" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', transition: 'color 0.2s' }}>Grupos</Link>
+              <Link href="/estadisticas" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', transition: 'color 0.2s' }}>Estadísticas</Link>
+              <Link href="/acerca-de" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', transition: 'color 0.2s' }}>Acerca de</Link>
+              <Link href="/politica-de-privacidad" style={{ color: 'var(--text-muted)', fontSize: '0.9rem', transition: 'color 0.2s' }}>Política de Privacidad</Link>
+            </div>
             <p>&copy; 2026 MundialPredicciones IA. Todos los derechos reservados.</p>
             <p style={{ marginTop: '0.5rem', fontSize: '0.875rem' }}>Predicciones generadas por Inteligencia Artificial basadas en datos estadísticos. Juega con responsabilidad.</p>
           </div>
