@@ -1,7 +1,33 @@
 import Link from 'next/link';
 import matches from './data/matches.json';
 
+export const dynamic = 'force-dynamic'; // Asegura que se evalúe la fecha en cada request
+
 export default function Home() {
+  // Obtener fecha actual ajustada a zona horaria de América (-5h aprox)
+  const today = new Date();
+  today.setHours(today.getHours() - 5);
+  
+  const yyyy = today.getFullYear();
+  const mm = String(today.getMonth() + 1).padStart(2, '0');
+  const dd = String(today.getDate()).padStart(2, '0');
+  const todayISO = `${yyyy}-${mm}-${dd}`;
+
+  // Filtrar partidos de hoy en adelante
+  let displayMatches = matches.filter(m => m.dateISO >= todayISO);
+  
+  if (displayMatches.length === 0) {
+    // Si ya pasaron todos los partidos, mostrar los del último día
+    const lastDate = matches[matches.length - 1].dateISO;
+    displayMatches = matches.filter(m => m.dateISO === lastDate);
+  } else {
+    // Mostrar solo los partidos de la fecha más próxima
+    const nextDate = displayMatches[0].dateISO;
+    displayMatches = displayMatches.filter(m => m.dateISO === nextDate);
+  }
+
+  const matchDayStr = displayMatches.length > 0 ? displayMatches[0].date : "Próximos Partidos";
+
   return (
     <>
       <div className="card hero-bg animate-fade-in" style={{ padding: '4rem 2rem', textAlign: 'center', marginBottom: '2rem', border: 'none' }}>
@@ -15,23 +41,31 @@ export default function Home() {
         </div>
       </div>
 
-      <h2 className="section-title animate-fade-in delay-100">Próximos Partidos</h2>
+      <h2 className="section-title animate-fade-in delay-100">Partidos del {matchDayStr}</h2>
       
       <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))', gap: '1.5rem' }}>
-        {matches.map((match, index) => (
+        {displayMatches.map((match, index) => (
           <Link href={`/partidos/${match.id}`} key={match.id} className={`card animate-fade-in`} style={{ display: 'flex', flexDirection: 'column', position: 'relative', animationDelay: `${(index + 2) * 100}ms` }}>
             <div style={{ fontSize: '0.875rem', color: 'var(--accent-secondary)', marginBottom: '1rem', fontWeight: '600' }}>
               {match.group} • {match.date}
             </div>
             
             <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '1.5rem' }}>
-              <div style={{ textAlign: 'center' }}>
-                <div style={{ fontSize: '3rem', lineHeight: '1', filter: 'drop-shadow(0 4px 6px rgba(0,0,0,0.2))' }}>{match.flag1}</div>
+              <div style={{ textAlign: 'center', flex: 1 }}>
+                <img 
+                  src={`https://flagcdn.com/w80/${match.flagCode1}.png`} 
+                  alt={match.team1}
+                  style={{ width: '60px', height: 'auto', borderRadius: '4px', filter: 'drop-shadow(0 4px 6px rgba(0,0,0,0.2))', display: 'inline-block' }} 
+                />
                 <div style={{ fontWeight: '600', marginTop: '0.5rem' }}>{match.team1}</div>
               </div>
-              <div style={{ fontSize: '1.2rem', color: 'var(--text-muted)', fontWeight: 'bold' }}>VS</div>
-              <div style={{ textAlign: 'center' }}>
-                <div style={{ fontSize: '3rem', lineHeight: '1', filter: 'drop-shadow(0 4px 6px rgba(0,0,0,0.2))' }}>{match.flag2}</div>
+              <div style={{ fontSize: '1.2rem', color: 'var(--text-muted)', fontWeight: 'bold', padding: '0 10px' }}>VS</div>
+              <div style={{ textAlign: 'center', flex: 1 }}>
+                <img 
+                  src={`https://flagcdn.com/w80/${match.flagCode2}.png`} 
+                  alt={match.team2}
+                  style={{ width: '60px', height: 'auto', borderRadius: '4px', filter: 'drop-shadow(0 4px 6px rgba(0,0,0,0.2))', display: 'inline-block' }} 
+                />
                 <div style={{ fontWeight: '600', marginTop: '0.5rem' }}>{match.team2}</div>
               </div>
             </div>

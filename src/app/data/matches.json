@@ -57,7 +57,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Santiago Giménez"
-    }
+    },
+    "flagCode1": "mx",
+    "flagCode2": "za",
+    "dateISO": "2026-06-11"
   },
   {
     "id": "corea-del-sur-vs-chequia",
@@ -117,7 +120,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 3.5",
       "goalscorers": "Son Heung-min"
-    }
+    },
+    "flagCode1": "kr",
+    "flagCode2": "cz",
+    "dateISO": "2026-06-11"
   },
   {
     "id": "canada-vs-bosnia",
@@ -177,7 +183,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Jonathan David"
-    }
+    },
+    "flagCode1": "ca",
+    "flagCode2": "ba",
+    "dateISO": "2026-06-12"
   },
   {
     "id": "usa-vs-paraguay",
@@ -237,7 +246,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Christian Pulisic"
-    }
+    },
+    "flagCode1": "us",
+    "flagCode2": "py",
+    "dateISO": "2026-06-12"
   },
   {
     "id": "catar-vs-suiza",
@@ -297,7 +309,10 @@
       "corners": "Más de 8.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Breel Embolo"
-    }
+    },
+    "flagCode1": "qa",
+    "flagCode2": "ch",
+    "dateISO": "2026-06-13"
   },
   {
     "id": "brasil-vs-marruecos",
@@ -357,7 +372,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Vinícius Júnior"
-    }
+    },
+    "flagCode1": "br",
+    "flagCode2": "ma",
+    "dateISO": "2026-06-13"
   },
   {
     "id": "haiti-vs-escocia",
@@ -417,7 +435,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "John McGinn"
-    }
+    },
+    "flagCode1": "ht",
+    "flagCode2": "gb-sct",
+    "dateISO": "2026-06-13"
   },
   {
     "id": "australia-vs-turquia",
@@ -477,7 +498,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Hakan Çalhanoğlu"
-    }
+    },
+    "flagCode1": "au",
+    "flagCode2": "tr",
+    "dateISO": "2026-06-13"
   },
   {
     "id": "alemania-vs-curazao",
@@ -537,7 +561,10 @@
       "corners": "Más de 10.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Jamal Musiala"
-    }
+    },
+    "flagCode1": "de",
+    "flagCode2": "cw",
+    "dateISO": "2026-06-14"
   },
   {
     "id": "paises-bajos-vs-japon",
@@ -597,7 +624,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Cody Gakpo"
-    }
+    },
+    "flagCode1": "nl",
+    "flagCode2": "jp",
+    "dateISO": "2026-06-14"
   },
   {
     "id": "costa-de-marfil-vs-ecuador",
@@ -657,7 +687,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Enner Valencia"
-    }
+    },
+    "flagCode1": "ci",
+    "flagCode2": "ec",
+    "dateISO": "2026-06-14"
   },
   {
     "id": "suecia-vs-tunez",
@@ -717,7 +750,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Viktor Gyökeres"
-    }
+    },
+    "flagCode1": "se",
+    "flagCode2": "tn",
+    "dateISO": "2026-06-14"
   },
   {
     "id": "espana-vs-cabo-verde",
@@ -777,7 +813,10 @@
       "corners": "Más de 10.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Lamine Yamal"
-    }
+    },
+    "flagCode1": "es",
+    "flagCode2": "cv",
+    "dateISO": "2026-06-15"
   },
   {
     "id": "belgica-vs-egipto",
@@ -837,7 +876,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Romelu Lukaku"
-    }
+    },
+    "flagCode1": "be",
+    "flagCode2": "eg",
+    "dateISO": "2026-06-15"
   },
   {
     "id": "arabia-saudita-vs-uruguay",
@@ -897,7 +939,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Darwin Núñez"
-    }
+    },
+    "flagCode1": "sa",
+    "flagCode2": "uy",
+    "dateISO": "2026-06-15"
   },
   {
     "id": "iran-vs-nueva-zelanda",
@@ -957,7 +1002,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 3.5",
       "goalscorers": "Mehdi Taremi"
-    }
+    },
+    "flagCode1": "ir",
+    "flagCode2": "nz",
+    "dateISO": "2026-06-15"
   },
   {
     "id": "francia-vs-senegal",
@@ -1017,7 +1065,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Kylian Mbappé"
-    }
+    },
+    "flagCode1": "fr",
+    "flagCode2": "sn",
+    "dateISO": "2026-06-16"
   },
   {
     "id": "irak-vs-noruega",
@@ -1077,7 +1128,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Erling Haaland"
-    }
+    },
+    "flagCode1": "iq",
+    "flagCode2": "no",
+    "dateISO": "2026-06-16"
   },
   {
     "id": "argentina-vs-argelia",
@@ -1137,7 +1191,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Lautaro Martínez"
-    }
+    },
+    "flagCode1": "ar",
+    "flagCode2": "dz",
+    "dateISO": "2026-06-16"
   },
   {
     "id": "austria-vs-jordania",
@@ -1197,7 +1254,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Marcel Sabitzer"
-    }
+    },
+    "flagCode1": "at",
+    "flagCode2": "jo",
+    "dateISO": "2026-06-16"
   },
   {
     "id": "portugal-vs-rd-congo",
@@ -1257,7 +1317,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Bruno Fernandes"
-    }
+    },
+    "flagCode1": "pt",
+    "flagCode2": "cd",
+    "dateISO": "2026-06-17"
   },
   {
     "id": "inglaterra-vs-croacia",
@@ -1317,7 +1380,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Harry Kane"
-    }
+    },
+    "flagCode1": "gb-eng",
+    "flagCode2": "hr",
+    "dateISO": "2026-06-17"
   },
   {
     "id": "ghana-vs-panama",
@@ -1377,7 +1443,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Mohammed Kudus"
-    }
+    },
+    "flagCode1": "gh",
+    "flagCode2": "pa",
+    "dateISO": "2026-06-17"
   },
   {
     "id": "uzbekistan-vs-colombia",
@@ -1437,7 +1506,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Luis Díaz"
-    }
+    },
+    "flagCode1": "uz",
+    "flagCode2": "co",
+    "dateISO": "2026-06-17"
   },
   {
     "id": "chequia-vs-sudafrica",
@@ -1497,7 +1569,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Patrik Schick"
-    }
+    },
+    "flagCode1": "cz",
+    "flagCode2": "za",
+    "dateISO": "2026-06-18"
   },
   {
     "id": "suiza-vs-bosnia",
@@ -1557,7 +1632,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Xherdan Shaqiri"
-    }
+    },
+    "flagCode1": "ch",
+    "flagCode2": "ba",
+    "dateISO": "2026-06-18"
   },
   {
     "id": "canada-vs-catar",
@@ -1617,7 +1695,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Alphonso Davies"
-    }
+    },
+    "flagCode1": "ca",
+    "flagCode2": "qa",
+    "dateISO": "2026-06-18"
   },
   {
     "id": "mexico-vs-corea-del-sur",
@@ -1677,67 +1758,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Hirving Lozano"
-    }
-  },
-  {
-    "id": "usa-vs-australia",
-    "team1": "Estados Unidos",
-    "team2": "Australia",
-    "flag1": "🇺🇸",
-    "flag2": "🇦🇺",
-    "date": "19 Junio 2026",
-    "time": "20:00",
-    "group": "Grupo C",
-    "stadium": "MetLife Stadium",
-    "analysis": "Estados Unidos asfixiará mediante presión alta para forzar pérdidas en la rústica salida de los 'Socceroos' e imponer condiciones rápido.\n\nAustralia buscará trabar el juego en la medular recurriendo al choque físico y faltas tácticas, intentando dañar exclusivamente por vía aérea.",
-    "recentForm": {
-      "team1": [
-        "W",
-        "W",
-        "D",
-        "W",
-        "L"
-      ],
-      "team2": [
-        "W",
-        "D",
-        "L",
-        "W",
-        "D"
-      ]
     },
-    "statistics": [
-      {
-        "label": "Goles por partido (Últimos 5)",
-        "team1": "2.0",
-        "team2": "1.2"
-      },
-      {
-        "label": "Posesión promedio",
-        "team1": "58%",
-        "team2": "42%"
-      },
-      {
-        "label": "Tiros al arco por partido",
-        "team1": "6.0",
-        "team2": "3.5"
-      },
-      {
-        "label": "Vallas invictas (Últimos 5)",
-        "team1": "3",
-        "team2": "2"
-      }
-    ],
-    "predictions": {
-      "winner": "Estados Unidos",
-      "winnerProb": "60%",
-      "exactScore": "2 - 0",
-      "btts": "No (Probabilidad: 35%)",
-      "overUnder": "Menos de 2.5 goles",
-      "corners": "Más de 9.5",
-      "cards": "Menos de 4.5",
-      "goalscorers": "Timothy Weah"
-    }
+    "flagCode1": "mx",
+    "flagCode2": "kr",
+    "dateISO": "2026-06-18"
   },
   {
     "id": "escocia-vs-marruecos",
@@ -1797,7 +1821,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Hakim Ziyech"
-    }
+    },
+    "flagCode1": "gb-sct",
+    "flagCode2": "ma",
+    "dateISO": "2026-06-19"
   },
   {
     "id": "brasil-vs-haiti",
@@ -1857,7 +1884,73 @@
       "corners": "Más de 10.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Rodrygo"
-    }
+    },
+    "flagCode1": "br",
+    "flagCode2": "ht",
+    "dateISO": "2026-06-19"
+  },
+  {
+    "id": "usa-vs-australia",
+    "team1": "Estados Unidos",
+    "team2": "Australia",
+    "flag1": "🇺🇸",
+    "flag2": "🇦🇺",
+    "date": "19 Junio 2026",
+    "time": "20:00",
+    "group": "Grupo C",
+    "stadium": "MetLife Stadium",
+    "analysis": "Estados Unidos asfixiará mediante presión alta para forzar pérdidas en la rústica salida de los 'Socceroos' e imponer condiciones rápido.\n\nAustralia buscará trabar el juego en la medular recurriendo al choque físico y faltas tácticas, intentando dañar exclusivamente por vía aérea.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.0",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "42%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.0",
+        "team2": "3.5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Estados Unidos",
+      "winnerProb": "60%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 35%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Timothy Weah"
+    },
+    "flagCode1": "us",
+    "flagCode2": "au",
+    "dateISO": "2026-06-19"
   },
   {
     "id": "turquia-vs-paraguay",
@@ -1917,7 +2010,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 5.5",
       "goalscorers": "Ninguno"
-    }
+    },
+    "flagCode1": "tr",
+    "flagCode2": "py",
+    "dateISO": "2026-06-19"
   },
   {
     "id": "paises-bajos-vs-suecia",
@@ -1977,7 +2073,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Memphis Depay"
-    }
+    },
+    "flagCode1": "nl",
+    "flagCode2": "se",
+    "dateISO": "2026-06-20"
   },
   {
     "id": "alemania-vs-costa-de-marfil",
@@ -2037,7 +2136,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Kai Havertz"
-    }
+    },
+    "flagCode1": "de",
+    "flagCode2": "ci",
+    "dateISO": "2026-06-20"
   },
   {
     "id": "ecuador-vs-curazao",
@@ -2097,7 +2199,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Moisés Caicedo"
-    }
+    },
+    "flagCode1": "ec",
+    "flagCode2": "cw",
+    "dateISO": "2026-06-20"
   },
   {
     "id": "tunez-vs-japon",
@@ -2157,7 +2262,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 3.5",
       "goalscorers": "Kaoru Mitoma"
-    }
+    },
+    "flagCode1": "tn",
+    "flagCode2": "jp",
+    "dateISO": "2026-06-20"
   },
   {
     "id": "espana-vs-arabia-saudita",
@@ -2217,7 +2325,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Nico Williams"
-    }
+    },
+    "flagCode1": "es",
+    "flagCode2": "sa",
+    "dateISO": "2026-06-21"
   },
   {
     "id": "belgica-vs-iran",
@@ -2277,67 +2388,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Leandro Trossard"
-    }
-  },
-  {
-    "id": "uruguay-vs-cabo-verde",
-    "team1": "Uruguay",
-    "team2": "Cabo Verde",
-    "flag1": "🇺🇾",
-    "flag2": "🇨🇻",
-    "date": "21 Junio 2026",
-    "time": "5:00 p. m.",
-    "group": "Grupo H",
-    "stadium": "Hard Rock Stadium",
-    "analysis": "Uruguay arrollará con presión posicional asfixiante desde los primeros compases, forzando fallos groseros en el fondo de Cabo Verde.\n\nCabo Verde intentará resguardarse con orgullo acumulando hombres en zona baja, pero la intensidad física charrúa dominará de principio a fin.",
-    "recentForm": {
-      "team1": [
-        "W",
-        "W",
-        "D",
-        "W",
-        "W"
-      ],
-      "team2": [
-        "D",
-        "L",
-        "W",
-        "L",
-        "W"
-      ]
     },
-    "statistics": [
-      {
-        "label": "Goles por partido (Últimos 5)",
-        "team1": "2.3",
-        "team2": "0.9"
-      },
-      {
-        "label": "Posesión promedio",
-        "team1": "60%",
-        "team2": "40%"
-      },
-      {
-        "label": "Tiros al arco por partido",
-        "team1": "6.8",
-        "team2": "2.8"
-      },
-      {
-        "label": "Vallas invictas (Últimos 5)",
-        "team1": "3",
-        "team2": "1"
-      }
-    ],
-    "predictions": {
-      "winner": "Uruguay",
-      "winnerProb": "82%",
-      "exactScore": "3 - 0",
-      "btts": "No (Probabilidad: 20%)",
-      "overUnder": "Más de 2.5 goles",
-      "corners": "Más de 9.5",
-      "cards": "Más de 3.5",
-      "goalscorers": "Federico Valverde"
-    }
+    "flagCode1": "be",
+    "flagCode2": "ir",
+    "dateISO": "2026-06-21"
   },
   {
     "id": "nueva-zelanda-vs-egipto",
@@ -2397,7 +2451,73 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Mostafa Mohamed"
-    }
+    },
+    "flagCode1": "nz",
+    "flagCode2": "eg",
+    "dateISO": "2026-06-21"
+  },
+  {
+    "id": "uruguay-vs-cabo-verde",
+    "team1": "Uruguay",
+    "team2": "Cabo Verde",
+    "flag1": "🇺🇾",
+    "flag2": "🇨🇻",
+    "date": "21 Junio 2026",
+    "time": "5:00 p. m.",
+    "group": "Grupo H",
+    "stadium": "Hard Rock Stadium",
+    "analysis": "Uruguay arrollará con presión posicional asfixiante desde los primeros compases, forzando fallos groseros en el fondo de Cabo Verde.\n\nCabo Verde intentará resguardarse con orgullo acumulando hombres en zona baja, pero la intensidad física charrúa dominará de principio a fin.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.3",
+        "team2": "0.9"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "60%",
+        "team2": "40%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6.8",
+        "team2": "2.8"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Uruguay",
+      "winnerProb": "82%",
+      "exactScore": "3 - 0",
+      "btts": "No (Probabilidad: 20%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Federico Valverde"
+    },
+    "flagCode1": "uy",
+    "flagCode2": "cv",
+    "dateISO": "2026-06-21"
   },
   {
     "id": "argentina-vs-austria",
@@ -2457,7 +2577,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Julián Álvarez"
-    }
+    },
+    "flagCode1": "ar",
+    "flagCode2": "at",
+    "dateISO": "2026-06-22"
   },
   {
     "id": "francia-vs-irak",
@@ -2517,7 +2640,10 @@
       "corners": "Más de 10.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Antoine Griezmann"
-    }
+    },
+    "flagCode1": "fr",
+    "flagCode2": "iq",
+    "dateISO": "2026-06-22"
   },
   {
     "id": "noruega-vs-senegal",
@@ -2577,7 +2703,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Sadio Mané"
-    }
+    },
+    "flagCode1": "no",
+    "flagCode2": "sn",
+    "dateISO": "2026-06-22"
   },
   {
     "id": "jordania-vs-argelia",
@@ -2637,7 +2766,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 3.5",
       "goalscorers": "Riyad Mahrez"
-    }
+    },
+    "flagCode1": "jo",
+    "flagCode2": "dz",
+    "dateISO": "2026-06-22"
   },
   {
     "id": "portugal-vs-uzbekistan",
@@ -2697,7 +2829,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Rafael Leão"
-    }
+    },
+    "flagCode1": "pt",
+    "flagCode2": "uz",
+    "dateISO": "2026-06-23"
   },
   {
     "id": "inglaterra-vs-ghana",
@@ -2757,7 +2892,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Jude Bellingham"
-    }
+    },
+    "flagCode1": "gb-eng",
+    "flagCode2": "gh",
+    "dateISO": "2026-06-23"
   },
   {
     "id": "panama-vs-croacia",
@@ -2817,7 +2955,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 3.5",
       "goalscorers": "Andrej Kramarić"
-    }
+    },
+    "flagCode1": "pa",
+    "flagCode2": "hr",
+    "dateISO": "2026-06-23"
   },
   {
     "id": "colombia-vs-rd-congo",
@@ -2877,7 +3018,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "James Rodríguez"
-    }
+    },
+    "flagCode1": "co",
+    "flagCode2": "cd",
+    "dateISO": "2026-06-23"
   },
   {
     "id": "suiza-vs-canada",
@@ -2937,7 +3081,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Jonathan David"
-    }
+    },
+    "flagCode1": "ch",
+    "flagCode2": "ca",
+    "dateISO": "2026-06-24"
   },
   {
     "id": "bosnia-vs-catar",
@@ -2997,7 +3144,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Edin Džeko"
-    }
+    },
+    "flagCode1": "ba",
+    "flagCode2": "qa",
+    "dateISO": "2026-06-24"
   },
   {
     "id": "escocia-vs-brasil",
@@ -3057,7 +3207,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Neymar"
-    }
+    },
+    "flagCode1": "gb-sct",
+    "flagCode2": "br",
+    "dateISO": "2026-06-24"
   },
   {
     "id": "marruecos-vs-haiti",
@@ -3117,7 +3270,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Youssef En-Nesyri"
-    }
+    },
+    "flagCode1": "ma",
+    "flagCode2": "ht",
+    "dateISO": "2026-06-24"
   },
   {
     "id": "chequia-vs-mexico",
@@ -3177,7 +3333,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Santiago Giménez"
-    }
+    },
+    "flagCode1": "cz",
+    "flagCode2": "mx",
+    "dateISO": "2026-06-24"
   },
   {
     "id": "sudafrica-vs-corea-del-sur",
@@ -3237,7 +3396,10 @@
       "corners": "Más de 8.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Hwang Hee-chan"
-    }
+    },
+    "flagCode1": "za",
+    "flagCode2": "kr",
+    "dateISO": "2026-06-24"
   },
   {
     "id": "ecuador-vs-alemania",
@@ -3297,7 +3459,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Ilkay Gündogan"
-    }
+    },
+    "flagCode1": "ec",
+    "flagCode2": "de",
+    "dateISO": "2026-06-25"
   },
   {
     "id": "curazao-vs-costa-de-marfil",
@@ -3357,7 +3522,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Sébastien Haller"
-    }
+    },
+    "flagCode1": "cw",
+    "flagCode2": "ci",
+    "dateISO": "2026-06-25"
   },
   {
     "id": "tunez-vs-paises-bajos",
@@ -3417,7 +3585,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Xavi Simons"
-    }
+    },
+    "flagCode1": "tn",
+    "flagCode2": "nl",
+    "dateISO": "2026-06-25"
   },
   {
     "id": "japon-vs-suecia",
@@ -3477,7 +3648,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 3.5",
       "goalscorers": "Ritsu Doan"
-    }
+    },
+    "flagCode1": "jp",
+    "flagCode2": "se",
+    "dateISO": "2026-06-25"
   },
   {
     "id": "turquia-vs-estados-unidos",
@@ -3537,7 +3711,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Folarin Balogun"
-    }
+    },
+    "flagCode1": "tr",
+    "flagCode2": "us",
+    "dateISO": "2026-06-25"
   },
   {
     "id": "paraguay-vs-australia",
@@ -3597,7 +3774,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 5.5",
       "goalscorers": "Miguel Almirón"
-    }
+    },
+    "flagCode1": "py",
+    "flagCode2": "au",
+    "dateISO": "2026-06-25"
   },
   {
     "id": "noruega-vs-francia",
@@ -3657,7 +3837,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Kylian Mbappé"
-    }
+    },
+    "flagCode1": "no",
+    "flagCode2": "fr",
+    "dateISO": "2026-06-26"
   },
   {
     "id": "senegal-vs-irak",
@@ -3717,7 +3900,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Boulaye Dia"
-    }
+    },
+    "flagCode1": "sn",
+    "flagCode2": "iq",
+    "dateISO": "2026-06-26"
   },
   {
     "id": "uruguay-vs-espana",
@@ -3777,7 +3963,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Darwin Núñez"
-    }
+    },
+    "flagCode1": "uy",
+    "flagCode2": "es",
+    "dateISO": "2026-06-26"
   },
   {
     "id": "cabo-verde-vs-arabia-saudita",
@@ -3837,7 +4026,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Salem Al-Dawsari"
-    }
+    },
+    "flagCode1": "cv",
+    "flagCode2": "sa",
+    "dateISO": "2026-06-26"
   },
   {
     "id": "nueva-zelanda-vs-belgica",
@@ -3897,7 +4089,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Lois Openda"
-    }
+    },
+    "flagCode1": "nz",
+    "flagCode2": "be",
+    "dateISO": "2026-06-26"
   },
   {
     "id": "egipto-vs-iran",
@@ -3957,7 +4152,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Ninguno"
-    }
+    },
+    "flagCode1": "eg",
+    "flagCode2": "ir",
+    "dateISO": "2026-06-26"
   },
   {
     "id": "panama-vs-inglaterra",
@@ -4017,7 +4215,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Bukayo Saka"
-    }
+    },
+    "flagCode1": "pa",
+    "flagCode2": "gb-eng",
+    "dateISO": "2026-06-27"
   },
   {
     "id": "croacia-vs-ghana",
@@ -4077,7 +4278,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 3.5",
       "goalscorers": "Luka Modrić"
-    }
+    },
+    "flagCode1": "hr",
+    "flagCode2": "gh",
+    "dateISO": "2026-06-27"
   },
   {
     "id": "colombia-vs-portugal",
@@ -4137,7 +4341,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Luis Díaz"
-    }
+    },
+    "flagCode1": "co",
+    "flagCode2": "pt",
+    "dateISO": "2026-06-27"
   },
   {
     "id": "rd-congo-vs-uzbekistan",
@@ -4197,7 +4404,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Eldor Shomurodov"
-    }
+    },
+    "flagCode1": "cd",
+    "flagCode2": "uz",
+    "dateISO": "2026-06-27"
   },
   {
     "id": "jordania-vs-argentina",
@@ -4257,7 +4467,10 @@
       "corners": "Más de 10.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Lionel Messi"
-    }
+    },
+    "flagCode1": "jo",
+    "flagCode2": "ar",
+    "dateISO": "2026-06-27"
   },
   {
     "id": "argelia-vs-austria",
@@ -4317,7 +4530,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Michael Gregoritsch"
-    }
+    },
+    "flagCode1": "dz",
+    "flagCode2": "at",
+    "dateISO": "2026-06-27"
   },
   {
     "id": "sudafrica-vs-canada",
@@ -4377,7 +4593,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Cyle Larin"
-    }
+    },
+    "flagCode1": "za",
+    "flagCode2": "ca",
+    "dateISO": "2026-06-28"
   },
   {
     "id": "brasil-vs-japon",
@@ -4437,7 +4656,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Vinícius Júnior"
-    }
+    },
+    "flagCode1": "br",
+    "flagCode2": "jp",
+    "dateISO": "2026-06-29"
   },
   {
     "id": "alemania-vs-paraguay",
@@ -4497,7 +4719,10 @@
       "corners": "Más de 10.5",
       "cards": "Más de 4.5",
       "goalscorers": "Niclas Füllkrug"
-    }
+    },
+    "flagCode1": "de",
+    "flagCode2": "py",
+    "dateISO": "2026-06-29"
   },
   {
     "id": "paises-bajos-vs-marruecos",
@@ -4557,7 +4782,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Cody Gakpo"
-    }
+    },
+    "flagCode1": "nl",
+    "flagCode2": "ma",
+    "dateISO": "2026-06-29"
   },
   {
     "id": "costa-de-marfil-vs-noruega",
@@ -4617,7 +4845,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Erling Haaland"
-    }
+    },
+    "flagCode1": "ci",
+    "flagCode2": "no",
+    "dateISO": "2026-06-30"
   },
   {
     "id": "francia-vs-suecia",
@@ -4677,7 +4908,10 @@
       "corners": "Más de 9.5",
       "cards": "Menos de 3.5",
       "goalscorers": "Kylian Mbappé"
-    }
+    },
+    "flagCode1": "fr",
+    "flagCode2": "se",
+    "dateISO": "2026-06-30"
   },
   {
     "id": "mexico-vs-ecuador",
@@ -4737,6 +4971,9 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Santiago Giménez"
-    }
+    },
+    "flagCode1": "mx",
+    "flagCode2": "ec",
+    "dateISO": "2026-06-30"
   }
 ]
