@@ -4975,5 +4975,185 @@
     "flagCode1": "mx",
     "flagCode2": "ec",
     "dateISO": "2026-06-30"
+  },
+  {
+    "id": "inglaterra-vs-rdcongo",
+    "team1": "Inglaterra",
+    "team2": "República Democrática del Congo",
+    "flag1": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "flag2": "🇨🇩",
+    "date": "1 Julio 2026",
+    "time": "11:00 (Hora Colombia)",
+    "group": "Octavos de Final",
+    "stadium": "Mercedes-Benz Stadium",
+    "analysis": "Inglaterra llega a este encuentro mostrando un nivel táctico superior y un control del mediocampo envidiable, liderado por figuras de talla mundial que imponen el ritmo de juego. Su esquema se basa en una posesión alta y transiciones organizadas, buscando romper líneas con pases filtrados y la contundencia de sus atacantes en el área rival. En sus últimos encuentros, han demostrado solidez defensiva, limitando significativamente las opciones de gol de sus adversarios gracias a un bloque compacto y recuperación rápida tras pérdida.\n\nPor su parte, la República Democrática del Congo se presenta como un equipo rocoso, de gran despliegue físico y capacidad para salir al contragolpe con extrema velocidad. Aprovechan muy bien las bandas y el juego directo, intentando capitalizar cualquier error en la salida del rival. Sin embargo, su principal desafío ante Inglaterra será mantener la concentración durante los 90 minutos y resistir el asedio constante, ya que ceder tanta posesión podría desgastarlos físicamente en el tramo final del partido.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "D",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.4",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "66%",
+        "team2": "34%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6",
+        "team2": "3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "1"
+      }
+    ],
+    "predictions": {
+      "winner": "Inglaterra",
+      "winnerProb": "78%",
+      "exactScore": "2 - 0",
+      "btts": "No (Probabilidad: 65%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Menos de 4.5",
+      "goalscorers": "Harry Kane (Cualquier momento)"
+    }
+  },
+  {
+    "id": "belgica-vs-senegal",
+    "team1": "Bélgica",
+    "team2": "Senegal",
+    "flag1": "🇧🇪",
+    "flag2": "🇸🇳",
+    "date": "1 Julio 2026",
+    "time": "15:00 (Hora Colombia)",
+    "group": "Octavos de Final",
+    "stadium": "MetLife Stadium",
+    "analysis": "Bélgica afronta esta eliminatoria con una propuesta basada en la posesión asociativa y la generación de juego dinámico en el último tercio de la cancha. El combinado europeo destaca por la fluidez de sus mediocampistas y su capacidad para romper defensas cerradas a través del talento individual de sus extremos. No obstante, las transiciones defensivas siguen siendo su principal vulnerabilidad, sufriendo ocasionalmente cuando los rivales consiguen explotar el espacio a las espaldas de su línea adelantada.\n\nPor el contrario, Senegal se consolida como uno de los bloques africanos más competitivos gracias a su impresionante potencia física y rigor táctico. La escuadra senegalesa prioriza la seguridad en la zona baja y es sumamente vertical tras la recuperación del balón, utilizando la velocidad de sus atacantes para castigar los repliegues tardíos del rival. Se proyecta un choque muy equilibrado, donde la efectividad belga en el área contraria se medirá directamente ante la resistencia y el contragolpe letal del conjunto africano.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "L"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "D",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "58%",
+        "team2": "44%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5",
+        "team2": "4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "3"
+      }
+    ],
+    "predictions": {
+      "winner": "Bélgica",
+      "winnerProb": "56%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 58%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Romelu Lukaku (Cualquier momento)"
+    }
+  },
+  {
+    "id": "usa-vs-bosnia",
+    "team1": "Estados Unidos",
+    "team2": "Bosnia y Herzegovina",
+    "flag1": "🇺🇸",
+    "flag2": "🇧🇦",
+    "date": "1 Julio 2026",
+    "time": "19:00 (Hora Colombia)",
+    "group": "Octavos de Final",
+    "stadium": "SoFi Stadium",
+    "analysis": "Estados Unidos llega a esta fase impulsado por su condición de local y un estilo de juego caracterizado por la alta intensidad y la presión constante en campo contrario. El equipo norteamericano basa su ofensiva en el dinamismo de sus mediocampistas y la desequilibrante velocidad de sus extremos, buscando constantemente transiciones rápidas que desarmen a la defensa rival. Han mostrado gran solidez en la fase de grupos, aunque en ocasiones sufren en el retroceso cuando pierden el balón en zonas de elaboración y quedan mal parados.\n\nBosnia y Herzegovina, por su parte, se presenta como un bloque táctico sumamente disciplinado y físicamente imponente. Su estrategia se fundamenta en un orden defensivo estricto, cediendo la iniciativa para aprovechar los espacios a través de contragolpes directos y una marcada fortaleza en el juego aéreo y las jugadas a balón parado. Para superar a la defensa estadounidense, buscarán ralentizar el ritmo del partido e imponer su superioridad en los duelos individuales físicos, buscando la frustración del cuadro local.\n\nSe anticipa un encuentro definido por el contraste de estilos. Estados Unidos asumirá el control del balón y el protagonismo ofensivo, mientras que Bosnia intentará cerrar los circuitos de pase defendiendo en bloque bajo. La clave del partido estará en la capacidad del equipo estadounidense para encontrar espacios libres con paciencia y en evitar conceder faltas innecesarias cerca de su propia área que revivan las esperanzas balcánicas.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "D"
+      ],
+      "team2": [
+        "D",
+        "W",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.8",
+        "team2": "1.2"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "55%",
+        "team2": "45%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "5",
+        "team2": "3"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Estados Unidos",
+      "winnerProb": "62%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 55%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Christian Pulisic (Cualquier momento)"
+    }
   }
 ]
