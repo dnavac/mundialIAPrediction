@@ -5155,5 +5155,185 @@
       "cards": "Más de 4.5",
       "goalscorers": "Christian Pulisic (Cualquier momento)"
     }
+  },
+  {
+    "id": "espana-vs-austria",
+    "team1": "España",
+    "team2": "Austria",
+    "flag1": "🇪🇸",
+    "flag2": "🇦🇹",
+    "date": "2 Julio 2026",
+    "time": "14:00 (Hora Colombia)",
+    "group": "Octavos de Final",
+    "stadium": "MetLife Stadium",
+    "analysis": "España se presenta a esta eliminatoria fiel a su identidad colectiva, caracterizada por una circulación veloz de balón, una altísima posesión y la verticalidad punzante que le aportan sus extremos. El mediocampo de la escuadra ibérica dicta las condiciones y el ritmo del partido, ahogando al rival en su propio terreno mediante una asfixiante presión tras pérdida. Aunque muestran una enorme fluidez ofensiva, el mayor desafío español radica en sostener la concentración ante los repliegues rápidos del adversario.\n\nAustria, guiada por su rigor defensivo y el sello del 'Gegenpressing', plantea una propuesta sumamente incómoda y física. El conjunto centroeuropeo es experto en bloquear los pasillos interiores y forzar pérdidas en zonas de gestación para lanzar transiciones directas a máxima velocidad. La clave para la selección austriaca pasará por mantener la intensidad física en la zona media y capitalizar el balón parado para inquietar al bloque defensivo de España.\n\nSe anticipa un duelo marcado por la lucha territorial y estratégica en el centro del campo. España asumirá el control de la pelota para desarticular la estructura rival con paciencia, mientras que Austria buscará romper los circuitos creativos españoles y lastimar a través del contragolpe. Un partido que demandará máxima fineza en las áreas.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "D",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.2",
+        "team2": "1.6"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "64%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "7",
+        "team2": "4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "España",
+      "winnerProb": "68%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 52%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 9.5",
+      "cards": "Más de 3.5",
+      "goalscorers": "Lamine Yamal (Cualquier momento)"
+    }
+  },
+  {
+    "id": "portugal-vs-croacia",
+    "team1": "Portugal",
+    "team2": "Croacia",
+    "flag1": "🇵🇹",
+    "flag2": "🇭🇷",
+    "date": "2 Julio 2026",
+    "time": "17:00 (Hora Colombia)",
+    "group": "Octavos de Final",
+    "stadium": "AT&T Stadium",
+    "analysis": "Portugal llega a este compromiso con una plantilla rebosante de talento individual y múltiples variantes ofensivas. El equipo luso basa su juego en el dinamismo de sus atacantes y la profundidad que ofrecen sus laterales, buscando constantemente superioridad numérica por las bandas. Sin embargo, su mayor reto frente a equipos ordenados es lograr un balance defensivo óptimo para no quedar expuestos a los contragolpes cuando acumulan muchos hombres en campo contrario.\n\nCroacia, fiel a su estirpe competitiva en torneos internacionales, opone un mediocampo de muchísima jerarquía táctica y técnica. Su estilo paciente y estructurado les permite controlar los tiempos del partido, adormecer el ritmo vertiginoso del rival y atacar los espacios con envíos precisos. Frente a Portugal, apostarán por densificar el eje del campo, cortocircuitar las líneas de pase hacia los extremos lusos y aprovechar al máximo las jugadas a balón parado.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "W"
+      ],
+      "team2": [
+        "D",
+        "W",
+        "D",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "2.2",
+        "team2": "1.4"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "54%",
+        "team2": "46%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "6",
+        "team2": "4"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "2",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Portugal",
+      "winnerProb": "58%",
+      "exactScore": "2 - 1",
+      "btts": "Sí (Probabilidad: 62%)",
+      "overUnder": "Más de 2.5 goles",
+      "corners": "Más de 8.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Bruno Fernandes (Cualquier momento)"
+    }
+  },
+  {
+    "id": "suiza-vs-argelia",
+    "team1": "Suiza",
+    "team2": "Argelia",
+    "flag1": "🇨🇭",
+    "flag2": "🇩🇿",
+    "date": "2 Julio 2026",
+    "time": "14:00 (Hora Colombia)",
+    "group": "Octavos de Final",
+    "stadium": "Gillette Stadium",
+    "analysis": "Suiza se destaca por su innegable disciplina táctica, un bloque defensivo compacto y la capacidad de dictar los tiempos del partido a través de un mediocampo muy experimentado. Su juego de posesión no busca ser asfixiante, sino pragmático, aprovechando las llegadas por sorpresa de sus volantes y laterales. En sus últimos encuentros, los helvéticos han mostrado una notable resiliencia en partidos cerrados, minimizando de manera efectiva los espacios entre sus líneas.\n\nPor otro lado, Argelia aporta un fútbol mucho más explosivo y vertical, combinando excelente técnica individual en el último tercio con un despliegue físico sumamente intenso. La clave del conjunto norteafricano radica en el desequilibrio de sus extremos y la velocidad letal en las transiciones ofensivas. Frente a la estructurada defensa suiza, Argelia deberá evitar centralizar demasiado su juego y enfocarse en abrir el campo para generar grietas en el bloque rival.\n\nSe anticipa un duelo sumamente táctico y de mucho roce en la zona medular. Suiza intentará dormir el partido con la tenencia del balón para evitar un escenario de ida y vuelta, mientras que Argelia buscará presionar alto en ráfagas para provocar el error en la salida europea. Ante tal paridad estratégica, la efectividad en las jugadas a balón parado podría ser el factor decisivo para definir el encuentro.",
+    "recentForm": {
+      "team1": [
+        "W",
+        "D",
+        "W",
+        "D",
+        "W"
+      ],
+      "team2": [
+        "W",
+        "W",
+        "L",
+        "W",
+        "D"
+      ]
+    },
+    "statistics": [
+      {
+        "label": "Goles por partido (Últimos 5)",
+        "team1": "1.6",
+        "team2": "1.8"
+      },
+      {
+        "label": "Posesión promedio",
+        "team1": "55%",
+        "team2": "45%"
+      },
+      {
+        "label": "Tiros al arco por partido",
+        "team1": "4",
+        "team2": "5"
+      },
+      {
+        "label": "Vallas invictas (Últimos 5)",
+        "team1": "3",
+        "team2": "2"
+      }
+    ],
+    "predictions": {
+      "winner": "Empate",
+      "winnerProb": "45%",
+      "exactScore": "1 - 1",
+      "btts": "Sí (Probabilidad: 70%)",
+      "overUnder": "Menos de 2.5 goles",
+      "corners": "Menos de 9.5",
+      "cards": "Más de 4.5",
+      "goalscorers": "Breel Embolo (Cualquier momento)"
+    }
   }
 ]
