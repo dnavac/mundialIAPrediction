@@ -5034,7 +5034,10 @@
       "corners": "Más de 8.5",
       "cards": "Menos de 4.5",
       "goalscorers": "Harry Kane (Cualquier momento)"
-    }
+    },
+    "flagCode1": "gb-eng",
+    "flagCode2": "cd",
+    "dateISO": "2026-07-01"
   },
   {
     "id": "belgica-vs-senegal",
@@ -5094,7 +5097,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Romelu Lukaku (Cualquier momento)"
-    }
+    },
+    "flagCode1": "be",
+    "flagCode2": "sn",
+    "dateISO": "2026-07-01"
   },
   {
     "id": "usa-vs-bosnia",
@@ -5154,7 +5160,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Christian Pulisic (Cualquier momento)"
-    }
+    },
+    "flagCode1": "us",
+    "flagCode2": "ba",
+    "dateISO": "2026-07-01"
   },
   {
     "id": "espana-vs-austria",
@@ -5214,7 +5223,10 @@
       "corners": "Más de 9.5",
       "cards": "Más de 3.5",
       "goalscorers": "Lamine Yamal (Cualquier momento)"
-    }
+    },
+    "flagCode1": "es",
+    "flagCode2": "at",
+    "dateISO": "2026-07-02"
   },
   {
     "id": "portugal-vs-croacia",
@@ -5274,7 +5286,10 @@
       "corners": "Más de 8.5",
       "cards": "Más de 4.5",
       "goalscorers": "Bruno Fernandes (Cualquier momento)"
-    }
+    },
+    "flagCode1": "pt",
+    "flagCode2": "hr",
+    "dateISO": "2026-07-02"
   },
   {
     "id": "suiza-vs-argelia",
@@ -5334,6 +5349,9 @@
       "corners": "Menos de 9.5",
       "cards": "Más de 4.5",
       "goalscorers": "Breel Embolo (Cualquier momento)"
-    }
+    },
+    "flagCode1": "ch",
+    "flagCode2": "dz",
+    "dateISO": "2026-07-02"
   }
 ]
